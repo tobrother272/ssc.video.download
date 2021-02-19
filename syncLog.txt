@@ -1,0 +1,344 @@
+21/04/20 02:31:05  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587367859019 and int_time < 1587454259019 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1593}
+21/04/20 02:33:12  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587367986201 and int_time < 1587454386201 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1792}
+21/04/20 02:45:12  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587368705820 and int_time < 1587455105820 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 false
+21/04/20 03:08:22  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587370095534 and int_time < 1587456495534 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1330}
+21/04/20 03:09:12  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587370145549 and int_time < 1587456545549 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1369}
+21/04/20 03:12:01  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587370314795 and int_time < 1587456714795 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1549}
+21/04/20 03:12:50  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587370363784 and int_time < 1587456763784 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1722}
+21/04/20 03:15:06  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587370499247 and int_time < 1587456899247 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1625}
+21/04/20 03:15:44  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587370538210 and int_time < 1587456938210 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1734}
+21/04/20 03:16:24  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587370578171 and int_time < 1587456978171 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1204}
+21/04/20 03:18:46  select video_sub_id,actionDay,video_sub_per_day,video_sub_view_time from  (select count(ac.id) as actionDay,video_sub_id,video_sub_per_day,video_sub_view_time from videosubcribe v left join action_history ac on v.video_sub_id=ac.video_id   and status!=2 and int_time > 1587370719882 and int_time < 1587457119882 where video_sub_day_completed<video_sub_max and allow=1 and video_sub_id not in ((select video_id from (SELECT count(*) as countViewOfAccount,video_id from action_history where action_channel_id='UCDa88AiJ738NcmUmr6sAXZw'  and status <2 GROUP by video_id HAVING countViewOfAccount >= 2) as TTTT )) group by video_sub_id having actionDay < video_sub_per_day) as TT order by actionDay limit 1 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1985}
+21/04/20 03:23:17 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1688}
+21/04/20 03:24:07 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1613}
+21/04/20 03:24:56 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1225}
+21/04/20 03:25:37 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1944}
+21/04/20 03:29:06 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1391}
+21/04/20 03:30:05 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1834}
+21/04/20 03:30:56 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1151}
+21/04/20 03:37:16 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1173}
+21/04/20 03:41:54 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1248}
+21/04/20 03:47:57 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1763}
+21/04/20 05:45:19 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCDa88AiJ738NcmUmr6sAXZw","need_time":1655}
+21/04/20 05:46:43 true
+21/04/20 05:47:43 true
+21/04/20 05:48:43 true
+21/04/20 05:49:44 true
+21/04/20 05:50:44 true
+21/04/20 05:51:44 true
+21/04/20 05:52:44 true
+21/04/20 05:53:51 true
+21/04/20 05:54:51 true
+21/04/20 05:55:51 true
+21/04/20 05:56:59 true
+21/04/20 05:57:59 true
+21/04/20 05:58:59 true
+21/04/20 05:59:59 true
+21/04/20 06:00:59 true
+21/04/20 06:01:59 true
+22/04/20 01:53:26 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCl_YXvYaMB6bP9cLqtNAdvQ","need_time":1331}
+22/04/20 01:53:43 true
+22/04/20 01:54:28 {"video_sub_id":"Rugy1JmG62E","account_channel_id":"UCOr_ukT1umACyn4mngz33kw","need_time":1590}
+22/04/20 01:54:47 true
+23/04/20 07:38:03 {"video_sub_id":"O4dw6XYBqQg","account_channel_id":"UCl_YXvYaMB6bP9cLqtNAdvQ","need_time":3031}
+14/05/20 11:36:39 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:36:49 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:36:59 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:38:40 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:38:50 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:39:00 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:39:10 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:39:20 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:39:30 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:40:10 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:40:20 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:40:30 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:40:40 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:41:00 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:41:10 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:41:20 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:41:30 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:41:40 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:41:50 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:42:10 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:46:07 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:46:17 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:46:27 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:46:57 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:47:07 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:47:17 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:47:27 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:47:37 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:47:47 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:47:57 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:53:04 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:53:14 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:53:34 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:53:44 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:53:54 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:54:04 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:54:14 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:54:24 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:54:34 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:54:44 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:54:54 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:55:04 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:55:14 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:55:24 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:55:34 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:55:44 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:55:54 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:56:59 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:57:09 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:57:19 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:57:29 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:57:39 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:57:49 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+14/05/20 11:57:59 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+25/05/20 05:43:12 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/ActionHistoryController/updateActionHistory
+25/05/20 05:49:01 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/ActionHistoryController/updateActionHistory
+25/05/20 06:11:52 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+25/05/20 06:13:36 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+25/05/20 06:13:46 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+25/05/20 06:13:56 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+25/05/20 06:14:11 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+25/05/20 06:14:21 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+25/05/20 06:15:19 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+25/05/20 06:15:29 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+25/05/20 06:16:14 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+25/05/20 06:16:24 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionView
+02/06/20 01:50:33 Connection timed out: connect
+02/06/20 01:50:42 Connection timed out: connect
+02/06/20 01:50:54 Connection timed out: connect
+02/06/20 01:51:15 Connection timed out: connect
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:15 monitor.aztouch.info
+02/06/20 01:51:18 monitor.aztouch.info
+02/06/20 01:51:21 monitor.aztouch.info
+02/06/20 01:51:24 monitor.aztouch.info
+02/06/20 01:51:27 monitor.aztouch.info
+02/06/20 01:51:30 monitor.aztouch.info
+02/06/20 01:51:33 monitor.aztouch.info
+02/06/20 01:51:36 monitor.aztouch.info
+02/06/20 01:51:50 monitor.aztouch.info
+02/06/20 01:51:50 monitor.aztouch.info
+02/06/20 01:51:50 monitor.aztouch.info
+02/06/20 01:51:50 monitor.aztouch.info
+02/06/20 01:51:51 monitor.aztouch.info
+02/06/20 01:51:54 monitor.aztouch.info
+02/06/20 01:51:57 monitor.aztouch.info
+02/06/20 01:52:00 monitor.aztouch.info
+02/06/20 01:52:03 monitor.aztouch.info
+02/06/20 01:52:06 monitor.aztouch.info
+02/06/20 01:52:09 monitor.aztouch.info
+02/06/20 01:52:12 monitor.aztouch.info
+02/06/20 01:52:15 monitor.aztouch.info
+02/06/20 01:52:18 monitor.aztouch.info
+02/06/20 01:52:21 monitor.aztouch.info
+02/06/20 01:52:24 monitor.aztouch.info
+02/06/20 01:52:38 monitor.aztouch.info
+02/06/20 01:52:38 monitor.aztouch.info
+02/06/20 01:52:38 monitor.aztouch.info
+02/06/20 01:52:38 monitor.aztouch.info
+02/06/20 01:52:39 monitor.aztouch.info
+02/06/20 01:52:42 monitor.aztouch.info
+02/06/20 01:52:45 monitor.aztouch.info
+02/06/20 01:52:48 monitor.aztouch.info
+02/06/20 01:52:51 monitor.aztouch.info
+02/06/20 01:52:54 monitor.aztouch.info
+02/06/20 01:52:57 monitor.aztouch.info
+02/06/20 01:53:00 monitor.aztouch.info
+02/06/20 01:53:14 monitor.aztouch.info
+02/06/20 01:53:14 monitor.aztouch.info
+02/06/20 01:53:14 monitor.aztouch.info
+02/06/20 01:53:14 monitor.aztouch.info
+02/06/20 01:53:15 monitor.aztouch.info
+02/06/20 01:53:18 monitor.aztouch.info
+02/06/20 01:53:21 monitor.aztouch.info
+02/06/20 01:53:24 monitor.aztouch.info
+02/06/20 01:53:27 monitor.aztouch.info
+02/06/20 01:53:30 monitor.aztouch.info
+02/06/20 01:53:33 monitor.aztouch.info
+02/06/20 01:53:36 monitor.aztouch.info
+02/06/20 01:53:39 monitor.aztouch.info
+02/06/20 01:53:42 monitor.aztouch.info
+02/06/20 01:53:45 monitor.aztouch.info
+02/06/20 01:53:48 monitor.aztouch.info
+02/06/20 01:53:51 monitor.aztouch.info
+02/06/20 01:53:54 monitor.aztouch.info
+02/06/20 01:53:57 monitor.aztouch.info
+02/06/20 01:54:00 monitor.aztouch.info
+02/06/20 01:54:14 monitor.aztouch.info
+02/06/20 01:54:14 monitor.aztouch.info
+02/06/20 01:54:14 monitor.aztouch.info
+02/06/20 01:54:14 monitor.aztouch.info
+02/06/20 01:54:15 monitor.aztouch.info
+02/06/20 01:54:18 monitor.aztouch.info
+02/06/20 01:54:21 monitor.aztouch.info
+02/06/20 01:54:24 monitor.aztouch.info
+02/06/20 01:54:38 monitor.aztouch.info
+02/06/20 01:54:38 monitor.aztouch.info
+02/06/20 01:54:38 monitor.aztouch.info
+02/06/20 01:54:38 monitor.aztouch.info
+02/06/20 01:54:39 monitor.aztouch.info
+02/06/20 01:54:42 monitor.aztouch.info
+02/06/20 01:54:45 monitor.aztouch.info
+02/06/20 01:54:45 monitor.aztouch.info
+02/06/20 01:54:48 monitor.aztouch.info
+02/06/20 01:55:02 monitor.aztouch.info
+02/06/20 01:55:02 monitor.aztouch.info
+02/06/20 01:55:02 monitor.aztouch.info
+02/06/20 01:55:02 monitor.aztouch.info
+02/06/20 01:55:03 monitor.aztouch.info
+02/06/20 01:55:06 monitor.aztouch.info
+02/06/20 01:55:09 monitor.aztouch.info
+02/06/20 01:55:12 monitor.aztouch.info
+02/06/20 01:55:26 monitor.aztouch.info
+02/06/20 01:55:26 monitor.aztouch.info
+02/06/20 01:55:26 monitor.aztouch.info
+02/06/20 01:55:26 monitor.aztouch.info
+02/06/20 01:55:27 monitor.aztouch.info
+02/06/20 01:55:30 monitor.aztouch.info
+02/06/20 01:55:33 monitor.aztouch.info
+02/06/20 01:55:36 monitor.aztouch.info
+02/06/20 01:55:36 monitor.aztouch.info
+02/06/20 01:55:36 monitor.aztouch.info
+02/06/20 01:55:39 monitor.aztouch.info
+02/06/20 01:55:42 monitor.aztouch.info
+02/06/20 01:55:45 monitor.aztouch.info
+02/06/20 01:55:59 monitor.aztouch.info
+02/06/20 01:55:59 monitor.aztouch.info
+02/06/20 01:55:59 monitor.aztouch.info
+02/06/20 01:55:59 monitor.aztouch.info
+02/06/20 01:56:00 monitor.aztouch.info
+02/06/20 01:56:03 monitor.aztouch.info
+02/06/20 01:56:06 monitor.aztouch.info
+02/06/20 01:56:09 monitor.aztouch.info
+02/06/20 01:56:23 monitor.aztouch.info
+02/06/20 01:56:23 monitor.aztouch.info
+02/06/20 01:56:23 monitor.aztouch.info
+02/06/20 01:56:23 monitor.aztouch.info
+02/06/20 01:56:23 monitor.aztouch.info
+02/06/20 01:56:23 monitor.aztouch.info
+02/06/20 01:56:23 monitor.aztouch.info
+02/06/20 01:56:24 monitor.aztouch.info
+02/06/20 01:56:27 monitor.aztouch.info
+02/06/20 01:56:30 monitor.aztouch.info
+02/06/20 01:56:31 monitor.aztouch.info
+02/06/20 01:56:33 monitor.aztouch.info
+02/06/20 01:56:36 monitor.aztouch.info
+02/06/20 01:56:36 monitor.aztouch.info
+02/06/20 01:56:39 monitor.aztouch.info
+02/06/20 01:56:42 monitor.aztouch.info
+02/06/20 01:56:42 monitor.aztouch.info
+02/06/20 01:56:45 monitor.aztouch.info
+02/06/20 01:56:59 monitor.aztouch.info
+02/06/20 01:56:59 monitor.aztouch.info
+02/06/20 01:56:59 monitor.aztouch.info
+02/06/20 01:56:59 monitor.aztouch.info
+02/06/20 01:57:00 monitor.aztouch.info
+02/06/20 01:57:03 monitor.aztouch.info
+02/06/20 01:57:06 monitor.aztouch.info
+02/06/20 01:57:09 monitor.aztouch.info
+02/06/20 01:57:10 monitor.aztouch.info
+02/06/20 01:57:12 monitor.aztouch.info
+02/06/20 01:57:15 monitor.aztouch.info
+02/06/20 01:57:18 monitor.aztouch.info
+02/06/20 01:57:32 monitor.aztouch.info
+02/06/20 01:57:32 monitor.aztouch.info
+02/06/20 01:57:32 monitor.aztouch.info
+02/06/20 01:57:32 monitor.aztouch.info
+02/06/20 01:57:33 monitor.aztouch.info
+02/06/20 01:57:36 monitor.aztouch.info
+02/06/20 01:57:39 monitor.aztouch.info
+02/06/20 01:57:42 monitor.aztouch.info
+02/06/20 01:57:56 monitor.aztouch.info
+02/06/20 01:57:56 monitor.aztouch.info
+02/06/20 01:57:56 monitor.aztouch.info
+02/06/20 01:57:56 monitor.aztouch.info
+02/06/20 01:57:57 monitor.aztouch.info
+02/06/20 01:58:00 monitor.aztouch.info
+02/06/20 01:58:03 monitor.aztouch.info
+02/06/20 01:58:06 monitor.aztouch.info
+02/06/20 01:58:09 monitor.aztouch.info
+02/06/20 01:58:12 monitor.aztouch.info
+02/06/20 01:58:15 monitor.aztouch.info
+02/06/20 01:58:18 monitor.aztouch.info
+02/06/20 01:58:21 monitor.aztouch.info
+02/06/20 01:58:24 monitor.aztouch.info
+02/06/20 01:58:27 monitor.aztouch.info
+02/06/20 01:58:30 monitor.aztouch.info
+02/06/20 01:58:33 monitor.aztouch.info
+02/06/20 01:58:36 monitor.aztouch.info
+02/06/20 01:58:39 monitor.aztouch.info
+02/06/20 01:58:42 monitor.aztouch.info
+02/06/20 01:58:45 monitor.aztouch.info
+02/06/20 01:58:48 monitor.aztouch.info
+02/06/20 01:58:51 monitor.aztouch.info
+02/06/20 01:58:54 monitor.aztouch.info
+02/06/20 01:58:57 monitor.aztouch.info
+02/06/20 01:59:00 monitor.aztouch.info
+02/06/20 01:59:03 monitor.aztouch.info
+02/06/20 01:59:06 monitor.aztouch.info
+02/06/20 01:59:21 monitor.aztouch.info
+02/06/20 01:59:21 monitor.aztouch.info
+02/06/20 01:59:21 monitor.aztouch.info
+02/06/20 01:59:21 monitor.aztouch.info
+02/06/20 01:59:21 monitor.aztouch.info
+02/06/20 01:59:24 monitor.aztouch.info
+02/06/20 01:59:27 monitor.aztouch.info
+02/06/20 01:59:30 monitor.aztouch.info
+02/06/20 01:59:33 monitor.aztouch.info
+02/06/20 01:59:36 monitor.aztouch.info
+02/06/20 01:59:39 monitor.aztouch.info
+02/06/20 01:59:42 monitor.aztouch.info
+02/06/20 01:59:45 monitor.aztouch.info
+02/06/20 01:59:48 monitor.aztouch.info
+02/06/20 01:59:51 monitor.aztouch.info
+02/06/20 01:59:54 monitor.aztouch.info
+02/06/20 01:59:57 monitor.aztouch.info
+02/06/20 02:00:00 monitor.aztouch.info
+02/06/20 02:00:03 monitor.aztouch.info
+02/06/20 02:00:06 monitor.aztouch.info
+02/06/20 02:00:09 monitor.aztouch.info
+02/06/20 02:00:12 monitor.aztouch.info
+02/06/20 02:00:15 monitor.aztouch.info
+02/06/20 02:00:18 monitor.aztouch.info
+02/06/20 02:00:20 monitor.aztouch.info
+02/06/20 02:00:21 monitor.aztouch.info
+02/06/20 02:00:24 monitor.aztouch.info
+02/06/20 02:00:27 monitor.aztouch.info
+02/06/20 02:00:30 monitor.aztouch.info
+02/06/20 02:00:33 monitor.aztouch.info
+02/06/20 02:00:36 monitor.aztouch.info
+02/06/20 02:00:37 monitor.aztouch.info
+02/06/20 02:00:38 monitor.aztouch.info
+02/06/20 02:00:39 monitor.aztouch.info
+02/06/20 02:00:42 monitor.aztouch.info
+02/06/20 02:00:45 monitor.aztouch.info
+02/06/20 02:00:48 monitor.aztouch.info
+05/06/20 10:16:24 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+05/06/20 10:16:27 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+05/06/20 10:16:30 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+05/06/20 10:16:33 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+05/06/20 10:16:36 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+05/06/20 10:16:39 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+05/06/20 10:16:42 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/getAccountWillActionSubcribe
+06/06/20 04:12:14 Server returned HTTP response code: 500 for URL: https://monitor.aztouch.info/backend/index.php/AccountSubController/updateAccountSub

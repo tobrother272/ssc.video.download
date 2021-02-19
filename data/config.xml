@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><map>
+  <string name="model">LG-P769</string>
+  <string name="sim_number">+016533922537</string>
+  <string name="googlead_id">MTdjODAxZWUtNWY0Ny00OWJiLWIwNzItY2RmNzRmNTc2ZjRm</string>
+  <string name="sim_iso">US</string>
+  <string name="type">user</string>
+  <string name="net_iso">US</string>
+  <string name="baseband">9696969696</string>
+  <string name="fingerprint">lge/u2_tmo_us/u2:4.1.2/JZO54K/P76920f.4DDB3515:user/release-keys</string>
+  <string name="android_id">d0ce4936d3cb000c</string>
+  <string name="codename">Jelly Bean</string>
+  <string name="sdk">17</string>
+  <string name="host">rPAGYpWdhS</string>
+  <string name="display">u2_tmo_us-user 4.1.2 JZO54K P76920f.4DDB3515 release-keys</string>
+  <string name="bootloader">P76920f.4DDB3515</string>
+  <string name="board">u2</string>
+  <string name="bluetooth_mac">c2:42:81:26:9b:d2</string>
+  <string name="product">LG-P769</string>
+  <string name="carrier">Verizon</string>
+  <string name="mac_address">0c:d8:58:9a:33:d7</string>
+  <string name="manufacturer">LGE</string>
+  <string name="device">u2</string>
+  <string name="brand">lge</string>
+  <string name="cpu.abi">armeabi-v7a</string>
+  <string name="cpu.abi2">armeabi</string>
+  <string name="wifi_name">3b39ee HOME Wifi</string>
+  <string name="imsi">082563757290175</string>
+  <string name="imei">353674875052834</string>
+  <string name="user">dpi</string>
+  <string name="release">4.2.1</string>
+  <string name="sim_serial">32730384259673586057</string>
+  <string name="serial">3b6393399694b103</string>
+  <string name="networkcode">310004</string>
+  <string name="name">u2_tmo_us</string>
+  <string name="description">u2_tmo_us-user 4.1.2 JZO54K P76920f.4DDB3515 release-keys</string>
+  <string name="HIDE_ROOT"/>
+  <string name="user_agent">Mozilla/5.0 (Linux;   Android 4.2.1; LG-P769 Build/JOP40F)AppleWebKit/537.36 (KHTML, Like Gecko) Version/4.0 Chrome/33.0.0.0 Safari/537.36 </string>
+  <string name="operator">VmlldHRlbCBNb2JpbGU=</string>
+  <string name="operator_name">VmlldHRlbCBNb2JpbGU=</string>
+  <string name="incremental">P76920f.4DDB3515</string>
+  <string name="fake_gmail"/>
+  <string name="gmail_input">NasaGilitCooper@gmail.com</string>
+  <string name="gl_render">Adreno 200</string>
+  <string name="gl_vendor">Qualcomm</string>
+  <string name="id">JOP40F</string>
+  <string name="OS_VERSION">Jelly Bean</string>
+  <string name="lat">100</string>
+  <string name="lon">100</string>
+  <string name="hardware">Samsung Exynos 3 Single</string>	
+</map>

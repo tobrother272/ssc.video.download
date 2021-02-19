@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXProgressBar?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" fx:id="apRootContainer" minHeight="-Infinity" minWidth="1282.0" prefHeight="768.0" styleClass="root" stylesheets="@../../../../../assets/Styles.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ssc.reup.api.Controller.FXMLSetupController">
+   <children>
+      <AnchorPane fx:id="apSetup" prefHeight="776.0" prefWidth="1375.0" styleClass="mainPane">
+         <children>
+            <AnchorPane layoutX="933.0" prefHeight="776.0" prefWidth="442.0" styleClass="statusPane">
+               <children>
+                  <Button layoutX="14.0" layoutY="737.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="417.0" styleClass="btnPrivacy" text="Chính sách bảo hành" />
+                  <TableView fx:id="tvListSetup" layoutX="69.0" layoutY="136.0" prefHeight="493.0" prefWidth="361.0" styleClass="table-view-material-setup" />
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="150.0" layoutY="136.0" prefHeight="485.0" prefWidth="824.0" styleClass="paneGroup">
+               <children>
+                  <AnchorPane layoutY="443.0" prefHeight="50.0" prefWidth="824.0" styleClass="paneGroup">
+                     <children>
+                        <Button fx:id="btnNextSetupStep" layoutX="732.0" layoutY="12.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="84.0" styleClass="btnPrimary" text="Tiếp theo" />
+                        <Label fx:id="lbChecklingMessage" layoutX="13.0" layoutY="18.0" prefHeight="15.0" prefWidth="361.0" styleClass="lbBreadScrumbDes" text="...." />
+                     </children>
+                  </AnchorPane>
+                  <Button fx:id="btnSetupNow" layoutX="363.0" layoutY="211.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="103.0" styleClass="btnPrimary" text="Cài đặt ngay" visible="false" />
+                  <Label fx:id="lbCheckingTitle" layoutY="171.0" prefHeight="15.0" prefWidth="824.0" style="-fx-alignment: CENTER;" styleClass="lbBreadScrumbDes" text="...." />
+                  <JFXProgressBar fx:id="pbChecking" layoutX="-2.0" layoutY="440.0" prefHeight="3.0" prefWidth="824.0" progress="0.0" />
+                  <ImageView fx:id="ivIconSetup" fitHeight="123.0" fitWidth="167.0" layoutX="333.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../../../../Desktop/setup.gif" />
+                     </image>
+                  </ImageView>
+                  <Label fx:id="lbCurrentTaskChecking" layoutX="216.0" layoutY="140.0" prefHeight="24.0" prefWidth="398.0" style="-fx-alignment: center; -fx-text-alignment: center;" styleClass="lbBreadScrumbTitle" text="Hoàn thành cài đặt để chạy tool tối ưu nhất" />
+                  <Label fx:id="lbCountCheckingEnv" layoutY="411.0" prefHeight="15.0" prefWidth="824.0" style="-fx-alignment: CENTER;" styleClass="lbBreadScrumbDes" text="...." />
+               </children>
+            </AnchorPane>
+            <Button fx:id="btCloseFromSetupTool" layoutX="150.0" layoutY="103.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="92.0" styleClass="btnLogout" text="Thoát Tool">
+               <graphic>
+                  <FontAwesomeIcon size="1.5em" text="" />
+               </graphic>
+            </Button>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

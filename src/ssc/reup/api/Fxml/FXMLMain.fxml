@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXCheckBox?>
+<?import com.jfoenix.controls.JFXProgressBar?>
+<?import com.jfoenix.controls.JFXSpinner?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon?>
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane id="AnchorPane" fx:id="apRootContainer" minHeight="-Infinity" minWidth="1282.0" prefHeight="768.0" styleClass="root" stylesheets="@../../../../../assets/Styles.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ssc.reup.api.Controller.FXMLDocumentController">
+   <children>
+      <AnchorPane fx:id="paneLogin" prefHeight="768.0" prefWidth="1366.0">
+         <children>
+            <AnchorPane fx:id="paneContentContainer" prefHeight="768.0" prefWidth="1366.0" styleClass="mainPane">
+               <children>
+                <AnchorPane layoutX="60.0" layoutY="114.0" minHeight="0.0" minWidth="0.0" prefHeight="651.0" prefWidth="1306.0" styleClass="mainPane">
+                     <children>
+                        <TabPane fx:id="tabContentContainer" layoutY="-28.0" prefHeight="683.0" prefWidth="1306.0" tabClosingPolicy="UNAVAILABLE">
+                          <tabs>
+                            <Tab text="Youtube">
+                              <content>
+                                <AnchorPane fx:id="apChannelRootPane" minHeight="0.0" minWidth="0.0" prefHeight="574.0" prefWidth="1334.0">
+                                       <children>
+                                          <JFXSpinner fx:id="jfxSpinnerLoadvideo" layoutX="13.0" layoutY="366.0" prefHeight="70.0" prefWidth="1308.0" visible="false" />
+                                          <AnchorPane fx:id="apYoutubeVideo" layoutX="7.0" layoutY="17.0" prefHeight="622.0" prefWidth="1292.0" />
+                                       </children>
+                                    </AnchorPane>
+                              </content>
+                            </Tab>
+                            <Tab text="Upload">
+                              <content>
+                                <AnchorPane fx:id="apChannelUploadPane" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                       <children>
+                                          <AnchorPane fx:id="apTableViewVideo" layoutX="810.0" layoutY="13.0" prefHeight="632.0" prefWidth="490.0" />
+                                          <AnchorPane fx:id="apInteractiveRunningView" layoutX="14.0" layoutY="14.0" prefHeight="628.0" prefWidth="789.0" />
+                                       </children>
+                                    </AnchorPane>
+                              </content>
+                            </Tab>
+                              <Tab text="History">
+                                 <content>
+                                    <AnchorPane fx:id="apChannelUploadPane1" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                       <children>
+                                          <AnchorPane fx:id="apHistoryTable" layoutX="14.0" layoutY="186.0" prefHeight="453.0" prefWidth="1279.0" />
+                                          <AnchorPane layoutX="12.0" layoutY="19.0" prefHeight="160.0" prefWidth="225.0" styleClass="group-pane">
+                                             <children>
+                                                <Label fx:id="lbSumTotalView" layoutX="13.0" layoutY="29.0" prefHeight="30.0" prefWidth="203.0" style="-fx-alignment: center_right;" styleClass="lbBreadScrumb" text="0" textAlignment="RIGHT" />
+                                                <Label fx:id="lbBreadscrumbDescription1" layoutX="14.0" layoutY="9.0" prefHeight="17.0" prefWidth="78.0" styleClass="lbBreadScrumbDes" text="Tổng view" />
+                                                <Label fx:id="lbBreadscrumbDescription11" layoutX="14.0" layoutY="58.0" prefHeight="17.0" prefWidth="94.0" styleClass="lbBreadScrumbDes" text="Tổng subscribe" />
+                                                <Label fx:id="lbSumTotalSubscribe" layoutX="13.0" layoutY="75.0" prefHeight="30.0" prefWidth="203.0" style="-fx-alignment: center_right;" styleClass="lbBreadScrumb" text="0" textAlignment="RIGHT" />
+                                                <Label fx:id="lbBreadscrumbDescription111" layoutX="14.0" layoutY="104.0" prefHeight="17.0" prefWidth="128.0" styleClass="lbBreadScrumbDes" text="Tổng thời gian (giờ)" />
+                                                <Label fx:id="lbSumTotalHour" layoutX="4.0" layoutY="123.0" prefHeight="30.0" prefWidth="211.0" style="-fx-alignment: center_right;" styleClass="lbBreadScrumbDes" text="0" textAlignment="RIGHT" />
+                                             </children>
+                                          </AnchorPane>
+                                          <AnchorPane layoutX="249.0" layoutY="20.0" prefHeight="158.0" prefWidth="399.0" styleClass="group-pane">
+                                             <children>
+                                                <Label layoutX="14.0" layoutY="14.0" styleClass="lbBreadScrumbDes" text="Bộ lọc" />
+                                                <DatePicker fx:id="cbGetReportFromDate" layoutX="99.0" layoutY="40.0" />
+                                                <Label layoutX="13.0" layoutY="46.0" styleClass="lbBreadScrumbDes" text="Từ ngày" />
+                                                <Label layoutX="11.0" layoutY="88.0" styleClass="lbBreadScrumbDes" text="Đến ngày" />
+                                                <DatePicker fx:id="cbGetReportToDate" layoutX="99.0" layoutY="83.0" />
+                                                <Button fx:id="btnLoadReport" layoutX="291.0" layoutY="40.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="98.0" styleClass="btn-primary" text="Áp dụng" />
+                                                <Button fx:id="btnRefresh" layoutX="291.0" layoutY="82.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="98.0" styleClass="btnRadiusSecondary" text="Reset" />
+                                                <JFXCheckBox layoutX="291.0" layoutY="13.0" text="Chỉ view" />
+                                             </children>
+                                          </AnchorPane>
+                                          <BarChart fx:id="chartReport" layoutX="635.0" layoutY="6.0" prefHeight="187.0" prefWidth="668.0">
+                                            <xAxis>
+                                              <CategoryAxis side="BOTTOM" />
+                                            </xAxis>
+                                            <yAxis>
+                                              <NumberAxis side="LEFT" />
+                                            </yAxis>
+                                          </BarChart>
+                                       </children>
+                                    </AnchorPane>
+                                 </content>
+                              </Tab>
+                          </tabs>
+                        </TabPane>
+                     </children>
+                  </AnchorPane>
+                <AnchorPane fx:id="apHeaderBar" layoutY="-2.0" minHeight="0.0" minWidth="0.0" prefHeight="60.0" prefWidth="1373.0" styleClass="paneNavTopBar">
+                     <children>
+                        <HBox fx:id="paneNavTopBar" alignment="CENTER_LEFT" layoutX="1066.0" nodeOrientation="RIGHT_TO_LEFT" prefHeight="60.0" prefWidth="294.0" styleClass="paneNavTopBar" />
+                        <FontAwesomeIcon fill="WHITE" layoutX="14.0" layoutY="40.0" size="2em" text="" wrappingWidth="13.0" />
+                     </children>
+                     <effect>
+                        <DropShadow color="#282b3e" height="13.41" offsetY="3.0" radius="2.8525" spread="0.07" width="0.0" />
+                     </effect>
+                  </AnchorPane>
+                  <VBox fx:id="vboxLeftNavBar" layoutY="61.0" prefHeight="704.0" prefWidth="60.0" styleClass="paneNavLeftBar" />
+                  <Label fx:id="lbBreadscrumbDescription" layoutX="80.0" layoutY="103.0" prefHeight="17.0" prefWidth="567.0" styleClass="lbBreadScrumbDes" text="BreadScrumb description" />
+                  <HBox fx:id="vboxChildButtonGroup" alignment="CENTER_RIGHT" layoutX="400.0" layoutY="71.0" prefHeight="50.0" prefWidth="947.0" styleClass="hboxChildMenu" />
+                  <Label fx:id="lbBreadscrumbTitle" layoutX="80.0" layoutY="68.0" prefHeight="23.0" prefWidth="361.0" styleClass="lbBreadScrumb" text="BreadScrumb title" />
+                  <JFXProgressBar fx:id="pbLoading" layoutX="60.0" layoutY="58.0" prefHeight="1.0" prefWidth="1313.0" visible="false" />
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="apInitAppViewContainer" prefHeight="770.0" prefWidth="1373.0" styleClass="mainPane" stylesheets="@../../../../../assets/Styles.css" visible="false">
+               <children>
+                  <ImageView fx:id="imgLogin" fitHeight="770.0" fitWidth="432.0" layoutX="941.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../assets/login_bg.jpg" />
+                     </image>
+                  </ImageView>
+                  <AnchorPane fx:id="leftLoginPane" prefHeight="770.0" prefWidth="941.0" styleClass="leftLoginPane" stylesheets="@../../../../../assets/Styles.css">
+                     <children>
+                        <Label layoutX="148.0" layoutY="148.0" prefHeight="322.0" prefWidth="521.0" styleClass="labelAppName" text="SSC Interactive" />
+                        <Button fx:id="btnCloseAfter" layoutX="1.0" layoutY="729.0" mnemonicParsing="false" prefWidth="75.0" styleClass="topBarButton">
+                           <graphic>
+                              <FontAwesomeIcon fill="#eed7bd" size="1.5em" text="" />
+                           </graphic>
+                        </Button>
+                        <JFXButton fx:id="btGoToSimple" contentDisplay="CENTER" prefHeight="45.0" prefWidth="155.0" styleClass="btnLinkReg" text="Simplesolution.co" />
+                        <Label layoutX="150.0" layoutY="472.0" prefHeight="60.0" prefWidth="533.0" styleClass="labelAppDescription" text="Tăng lượt xem và subscriber " />
+                     </children>
+                     <effect>
+                        <DropShadow color="#747d8c" height="59.85" offsetY="-10.0" radius="29.35" width="59.55" />
+                     </effect>
+                  </AnchorPane>
+                  <AnchorPane fx:id="apLogin" layoutX="968.0" layoutY="25.0" prefHeight="233.0" prefWidth="382.0" styleClass="loginFormRoot">
+                     <effect>
+                        <DropShadow blurType="GAUSSIAN" color="#57606f" height="64.74" radius="30.572499999999998" width="59.55" />
+                     </effect>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+      <AnchorPane fx:id="apHelperContainer" prefHeight="768.0" prefWidth="1366.0" styleClass="dialog-bg" visible="false">
+         <children>
+            <ImageView fx:id="ivHelper" fitHeight="683.0" fitWidth="1334.0" layoutX="15.0" layoutY="63.0" pickOnBounds="true" preserveRatio="true" />
+            <JFXCheckBox fx:id="chSaveHelper" layoutX="14.0" layoutY="18.0" styleClass="my-checkbox" text="Không xuất hiện lại hướng dẫn này" />
+            <Button fx:id="btCloseHelper" layoutX="243.0" layoutY="14.0" mnemonicParsing="false" prefWidth="110.0" styleClass="btnRadius" text="Đóng hướng dẫn" />
+            <JFXSpinner fx:id="spHelperLoading" layoutX="682.0" layoutY="334.0" />
+            <Button fx:id="btYoutubeHelp" layoutX="363.0" layoutY="14.0" mnemonicParsing="false" prefWidth="174.0" styleClass="btnRadius" text="Xem video  hướng dẫn youtube" />
+         </children>
+      </AnchorPane>
+      <AnchorPane fx:id="dialogPane" layoutY="-1.0" prefHeight="770.0" prefWidth="1372.0" styleClass="dialog-bg" visible="false" />
+      <AnchorPane fx:id="messagePane" layoutX="242.0" prefHeight="60.0" prefWidth="900.0" visible="false" />
+      <AnchorPane fx:id="pnToolTip" layoutX="59.0" layoutY="50.0" prefHeight="17.0" prefWidth="1313.0" styleClass="paneMessageError" visible="false">
+         <effect>
+            <DropShadow color="DODGERBLUE" height="2.97" offsetY="3.0" radius="0.24250000000000005" spread="0.21" width="0.0" />
+         </effect>
+         <children>
+            <Button layoutX="4.0" layoutY="2.0" mnemonicParsing="false" style="-fx-background-color: transparent;">
+               <graphic>
+                  <FontAwesomeIcon fill="#ff4757" size="1.5em" text="" />
+               </graphic>
+            </Button>
+            <Label fx:id="lbToolTip" layoutX="33.0" layoutY="7.0" prefHeight="17.0" prefWidth="1187.0" styleClass="labelMessageTitle" text="..." />
+         </children>
+      </AnchorPane>
+      <AnchorPane fx:id="apProgress" prefHeight="30.0" prefWidth="1372.0" styleClass="paneMessageError" visible="false">
+         <children>
+            <Label fx:id="lbProgress" prefHeight="30.0" prefWidth="1372.0" styleClass="labelMessage" text="Label" />
+            <Label fx:id="lbTitleMesssage" prefHeight="30.0" prefWidth="1373.0" styleClass="labelMessageTitle" text="..." />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

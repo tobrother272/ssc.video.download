@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import com.jfoenix.controls.*?>
+<?import java.net.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="794.0" prefWidth="1359.0" style="-fx-background-color: transparent;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ssc.reup.api.Controller.PlashScreenController">
+   <stylesheets>
+      <URL value="@../styles/Styles.css" />
+      <URL value="@../../../../assets/Styles.css" />
+   </stylesheets>
+   <children>
+      <StackPane fx:id="spContent" layoutX="148.0" layoutY="101.0" prefHeight="566.0" prefWidth="1156.0">
+         <children>
+            <AnchorPane fx:id="apMain" prefHeight="643.0" prefWidth="1237.0" style="-fx-background-color: transparent;">
+               <children>
+                  <Button fx:id="lbPlashMessage" alignment="CENTER_RIGHT" layoutX="512.0" layoutY="266.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="644.0" styleClass="app-name-content" text="..." visible="false" wrapText="true" />
+                  <Button fx:id="btnUpdate" mnemonicParsing="false" prefHeight="174.0" prefWidth="83.0" styleClass="button-menu" stylesheets="@../../../../../assets/Styles.css" text="Update" visible="false" />
+                  <ImageView fx:id="ivS1" fitHeight="317.0" fitWidth="217.0" layoutX="482.0" layoutY="97.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../assets/S.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="ivS2" fitHeight="310.0" fitWidth="217.0" layoutX="325.0" layoutY="187.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../assets/S.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="ivCo" fitHeight="71.0" fitWidth="126.0" layoutX="472.0" layoutY="418.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../assets/co.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+         </children></StackPane>
+   </children>
+</AnchorPane>

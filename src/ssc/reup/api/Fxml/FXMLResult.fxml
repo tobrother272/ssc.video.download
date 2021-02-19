@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import com.jfoenix.controls.*?>
+<?import java.net.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="353.0" prefWidth="780.0" styleClass="group-pane" stylesheets="@../../../../../assets/Styles.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ssc.reup.api.Controller.ResultController">
+   <children>
+      <StackPane fx:id="spContent" layoutX="8.0" layoutY="72.0" prefHeight="243.0" prefWidth="764.0">
+         <children>
+            <TableView fx:id="tvResult" prefHeight="255.0" prefWidth="764.0" styleClass="table-view-video-log">
+               <columns>
+                  <TableColumn prefWidth="75.0" text="asd" />
+               </columns></TableView>
+         </children>
+      </StackPane>
+      <Button fx:id="btExit" layoutX="677.0" layoutY="9.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="96.0" styleClass="button-warning" text="Close" />
+      <Button fx:id="btClearLog" layoutX="550.0" layoutY="7.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="123.0" styleClass="button-menu" text="Clear Log" />
+   </children>
+</AnchorPane>

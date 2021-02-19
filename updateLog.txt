@@ -1,0 +1,14 @@
+Aug 05, 2020 4:04:50 PM com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+INFO: Could not find stylesheet: jar:file:/C:/Users/simplesolution.co/Documents/SSCProject/SSCInteractive/update.exe!/ssc/reup/api/styles/Styles.css
+Aug 05, 2020 4:04:50 PM com.sun.javafx.css.StyleManager loadStylesheetUnPrivileged
+INFO: Could not find stylesheet: jar:file:/C:/Users/simplesolution.co/Documents/SSCProject/SSCInteractive/update.exe!/assets/Styles.css
+Aug 05, 2020 4:04:50 PM com.sun.javafx.css.parser.CSSParser declaration
+WARNING: CSS Error parsing file:/C:/Users/simplesolution.co/Documents/SSCProject/SSCInteractive/assets/Styles.css: Unsupported <border-style> 'segments' while parsing '-fx-border-style' at [471,22]
+Aug 05, 2020 4:04:50 PM com.sun.javafx.css.parser.CSSParser declaration
+WARNING: CSS Error parsing file:/C:/Users/simplesolution.co/Documents/SSCProject/SSCInteractive/assets/Styles.css: Unsupported <border-style> 'segments' while parsing '-fx-border-style' at [486,22]
+Aug 05, 2020 4:04:50 PM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve 'tranparent' while resolving lookups for '-fx-background-color' from inline style on Button[id=lbPlashMessage, styleClass=button app-name-content]''
+Aug 05, 2020 4:04:51 PM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve 'tranparent' while resolving lookups for '-fx-background-color' from inline style on Button[id=lbPlashTitle, styleClass=button app-name-content]''
+Aug 05, 2020 4:04:51 PM javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve 'tranparent' while resolving lookups for '-fx-background-color' from inline style on Button[id=lbPlashMessage, styleClass=button app-name-content]'Checking update ...'

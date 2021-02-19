@@ -1,0 +1,1462 @@
+
+{"video_sub_id":"VsobWfgNoX8","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+02/03/19 03:14:20 
+true
+02/03/19 03:14:21 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:16:13 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:27:02 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:28:03 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:29:06 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:30:09 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:31:12 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:32:15 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:33:18 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:34:21 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:35:24 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:36:27 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:37:30 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:38:33 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:39:36 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+02/03/19 03:40:39 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+02/03/19 03:42:29 
+true
+02/03/19 03:42:38 
+{"video_sub_id":"fLuMODpwSpU","account_channel_id":"UC2Zf-BYtTvl0Whzq2NyiWiA","account_id":"300119043846","video_sub_view_time":"31-61"}
+04/03/19 04:42:58 
+true
+04/03/19 04:42:58 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+04/03/19 05:00:35 
+true
+04/03/19 05:00:35 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+04/03/19 05:02:18 
+true
+04/03/19 05:02:29 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+04/03/19 05:09:04 
+true
+04/03/19 05:09:04 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+04/03/19 05:10:52 
+true
+04/03/19 05:11:01 
+{"video_sub_id":"35jj2uHChdY","account_channel_id":"UC8u5tO9ZBEOGI8yW8gxBrRw","account_id":"310119071532","video_sub_view_time":"30-60"}
+04/03/19 05:13:01 
+true
+04/03/19 05:13:10 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+04/03/19 05:21:23 
+true
+04/03/19 05:21:23 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"UCl4ZR1xHbEl8uQ93v1h6-Aw","account_id":"300119044726","video_sub_view_time":"30-60"}
+05/03/19 12:03:51 
+true
+05/03/19 12:03:51 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCLIt_csUWO_UNghUbIQt0nw","account_id":"300119044122","video_sub_view_time":"30-60"}
+05/03/19 12:08:33 
+true
+05/03/19 12:08:33 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCjviAXImzT_NH0xMwlH2nlA","account_id":"300119044315","video_sub_view_time":"30-60"}
+05/03/19 12:08:35 No route to host: connect
+05/03/19 12:13:36 
+true
+05/03/19 12:13:36 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCjviAXImzT_NH0xMwlH2nlA","account_id":"300119044315","video_sub_view_time":"30-60"}
+05/03/19 12:15:18 
+true
+05/03/19 12:15:27 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCN85gQVbGzBzBxLH8A_DjGg","account_id":"300119044502","video_sub_view_time":"30-60"}
+05/03/19 12:17:05 
+true
+05/03/19 12:17:15 
+{"video_sub_id":"35jj2uHChdY","account_channel_id":"UCl4ZR1xHbEl8uQ93v1h6-Aw","account_id":"300119044726","video_sub_view_time":"30-60"}
+05/03/19 12:18:57 
+true
+05/03/19 12:19:06 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"UCiAfO7s5l1SB_oLsFqh55fw","account_id":"310119071332","video_sub_view_time":"30-60"}
+05/03/19 12:20:54 
+true
+05/03/19 12:21:03 
+{"video_sub_id":"fLuMODpwSpU","account_channel_id":"UCLIt_csUWO_UNghUbIQt0nw","account_id":"300119044122","video_sub_view_time":"31-61"}
+05/03/19 12:23:02 
+true
+05/03/19 12:23:12 
+{"video_sub_id":"VsobWfgNoX8","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+05/03/19 12:25:02 
+true
+05/03/19 12:25:12 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCPYEj2ojJ2RRfImub6Qq1OA","account_id":"310119071504","video_sub_view_time":"30-60"}
+05/03/19 12:26:51 
+true
+05/03/19 12:27:00 
+{"video_sub_id":"ZlFaC3S8aSA","account_channel_id":"UC2Zf-BYtTvl0Whzq2NyiWiA","account_id":"300119043846","video_sub_view_time":"30-60"}
+05/03/19 12:28:46 
+true
+05/03/19 12:28:54 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+05/03/19 12:30:50 
+true
+05/03/19 12:31:00 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+05/03/19 12:32:46 
+true
+05/03/19 12:32:54 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCjviAXImzT_NH0xMwlH2nlA","account_id":"300119044315","video_sub_view_time":"30-60"}
+05/03/19 12:34:34 
+true
+05/03/19 12:34:42 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"UC8u5tO9ZBEOGI8yW8gxBrRw","account_id":"310119071532","video_sub_view_time":"30-60"}
+05/03/19 12:36:23 
+true
+05/03/19 12:36:33 
+{"video_sub_id":"35jj2uHChdY","account_channel_id":"UCiAfO7s5l1SB_oLsFqh55fw","account_id":"310119071332","video_sub_view_time":"30-60"}
+05/03/19 12:40:10 
+true
+05/03/19 12:40:10 
+{"video_sub_id":"35jj2uHChdY","account_channel_id":"UCiAfO7s5l1SB_oLsFqh55fw","account_id":"310119071332","video_sub_view_time":"30-60"}
+05/03/19 12:43:54 
+true
+05/03/19 12:44:04 
+{"video_sub_id":"VsobWfgNoX8","account_channel_id":"UCLIt_csUWO_UNghUbIQt0nw","account_id":"300119044122","video_sub_view_time":"30-60"}
+05/03/19 12:47:21 
+true
+05/03/19 12:47:31 
+{"video_sub_id":"fLuMODpwSpU","account_channel_id":"UCN85gQVbGzBzBxLH8A_DjGg","account_id":"300119044502","video_sub_view_time":"31-61"}
+05/03/19 12:51:03 
+true
+05/03/19 12:51:13 
+{"video_sub_id":"ZlFaC3S8aSA","account_channel_id":"UCl4ZR1xHbEl8uQ93v1h6-Aw","account_id":"300119044726","video_sub_view_time":"30-60"}
+05/03/19 12:54:55 
+true
+05/03/19 12:55:04 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UC2Zf-BYtTvl0Whzq2NyiWiA","account_id":"300119043846","video_sub_view_time":"30-60"}
+05/03/19 12:58:30 
+true
+05/03/19 12:58:40 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCPYEj2ojJ2RRfImub6Qq1OA","account_id":"310119071504","video_sub_view_time":"30-60"}
+05/03/19 01:02:05 
+true
+05/03/19 01:02:13 
+{"video_sub_id":"fLuMODpwSpU","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"31-61"}
+05/03/19 01:05:52 
+true
+05/03/19 01:06:01 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+05/03/19 01:07:02 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+05/03/19 01:08:05 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+05/03/19 01:09:08 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+05/03/19 01:10:11 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+05/03/19 01:11:14 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+05/03/19 01:12:17 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+05/03/19 01:13:21 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+05/03/19 01:14:23 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCN85gQVbGzBzBxLH8A_DjGg","account_id":"300119044502","video_sub_view_time":"30-60"}
+05/03/19 01:19:09 
+true
+05/03/19 01:19:16 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCLIt_csUWO_UNghUbIQt0nw","account_id":"300119044122","video_sub_view_time":"30-60"}
+05/03/19 01:24:15 
+true
+05/03/19 01:24:22 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"UC2Zf-BYtTvl0Whzq2NyiWiA","account_id":"300119043846","video_sub_view_time":"30-60"}
+05/03/19 01:27:47 
+true
+05/03/19 01:27:55 
+{"video_sub_id":"35jj2uHChdY","account_channel_id":"UCPYEj2ojJ2RRfImub6Qq1OA","account_id":"310119071504","video_sub_view_time":"30-60"}
+05/03/19 01:32:39 
+true
+05/03/19 01:32:46 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UC8u5tO9ZBEOGI8yW8gxBrRw","account_id":"310119071532","video_sub_view_time":"30-60"}
+05/03/19 01:35:49 
+true
+05/03/19 01:35:59 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCl4ZR1xHbEl8uQ93v1h6-Aw","account_id":"300119044726","video_sub_view_time":"30-60"}
+05/03/19 01:39:16 
+true
+05/03/19 01:39:26 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+05/03/19 01:43:01 
+true
+05/03/19 01:43:11 
+{"video_sub_id":"35jj2uHChdY","account_channel_id":"UCjviAXImzT_NH0xMwlH2nlA","account_id":"300119044315","video_sub_view_time":"30-60"}
+05/03/19 01:46:54 
+true
+05/03/19 01:47:02 
+{"video_sub_id":"VsobWfgNoX8","account_channel_id":"UCiAfO7s5l1SB_oLsFqh55fw","account_id":"310119071332","video_sub_view_time":"30-60"}
+05/03/19 01:50:27 
+true
+05/03/19 01:50:38 
+{"video_sub_id":"VsobWfgNoX8","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+05/03/19 01:58:19 
+true
+05/03/19 01:58:19 
+{"video_sub_id":"ZlFaC3S8aSA","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+05/03/19 02:05:41 
+true
+05/03/19 02:05:41 
+{"video_sub_id":"ZlFaC3S8aSA","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+05/03/19 02:08:47 
+true
+05/03/19 02:08:56 
+{"video_sub_id":"fLuMODpwSpU","account_channel_id":"UCl4ZR1xHbEl8uQ93v1h6-Aw","account_id":"300119044726","video_sub_view_time":"31-61"}
+05/03/19 03:36:27 
+true
+05/03/19 03:36:27 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UC2Zf-BYtTvl0Whzq2NyiWiA","account_id":"300119043846","video_sub_view_time":"30-60"}
+05/03/19 03:38:30 
+true
+05/03/19 03:38:41 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UC8u5tO9ZBEOGI8yW8gxBrRw","account_id":"310119071532","video_sub_view_time":"30-60"}
+05/03/19 03:40:08 
+true
+05/03/19 03:40:17 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+05/03/19 03:41:52 
+true
+05/03/19 03:42:02 
+{"video_sub_id":"35jj2uHChdY","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+05/03/19 03:43:54 
+true
+05/03/19 03:44:02 
+{"video_sub_id":"VsobWfgNoX8","account_channel_id":"UCPYEj2ojJ2RRfImub6Qq1OA","account_id":"310119071504","video_sub_view_time":"30-60"}
+05/03/19 03:45:59 
+true
+05/03/19 03:46:08 
+{"video_sub_id":"fLuMODpwSpU","account_channel_id":"UCjviAXImzT_NH0xMwlH2nlA","account_id":"300119044315","video_sub_view_time":"31-61"}
+05/03/19 03:48:01 
+true
+05/03/19 03:48:08 
+{"video_sub_id":"ZlFaC3S8aSA","account_channel_id":"UCLIt_csUWO_UNghUbIQt0nw","account_id":"300119044122","video_sub_view_time":"30-60"}
+05/03/19 03:49:41 
+true
+05/03/19 03:49:50 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCl4ZR1xHbEl8uQ93v1h6-Aw","account_id":"300119044726","video_sub_view_time":"30-60"}
+05/03/19 03:51:50 
+true
+05/03/19 03:51:59 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCN85gQVbGzBzBxLH8A_DjGg","account_id":"300119044502","video_sub_view_time":"30-60"}
+05/03/19 03:53:43 
+true
+05/03/19 03:53:50 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCiAfO7s5l1SB_oLsFqh55fw","account_id":"310119071332","video_sub_view_time":"30-60"}
+05/03/19 03:55:40 
+true
+05/03/19 03:55:48 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCPYEj2ojJ2RRfImub6Qq1OA","account_id":"310119071504","video_sub_view_time":"30-60"}
+05/03/19 03:57:49 
+true
+05/03/19 03:57:57 
+{"video_sub_id":"35jj2uHChdY","account_channel_id":"UCN85gQVbGzBzBxLH8A_DjGg","account_id":"300119044502","video_sub_view_time":"30-60"}
+05/03/19 03:59:54 
+true
+05/03/19 04:00:03 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"UCLIt_csUWO_UNghUbIQt0nw","account_id":"300119044122","video_sub_view_time":"30-60"}
+05/03/19 04:02:04 
+true
+05/03/19 04:02:12 
+{"video_sub_id":"fLuMODpwSpU","account_channel_id":"UCiAfO7s5l1SB_oLsFqh55fw","account_id":"310119071332","video_sub_view_time":"31-61"}
+05/03/19 05:02:26 
+true
+05/03/19 05:02:26 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UC2Zf-BYtTvl0Whzq2NyiWiA","account_id":"300119043846","video_sub_view_time":"30-60"}
+05/03/19 05:04:08 
+true
+05/03/19 05:04:08 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UC2Zf-BYtTvl0Whzq2NyiWiA","account_id":"300119043846","video_sub_view_time":"30-60"}
+05/03/19 05:07:13 
+true
+05/03/19 05:07:23 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCl4ZR1xHbEl8uQ93v1h6-Aw","account_id":"300119044726","video_sub_view_time":"30-60"}
+05/03/19 05:08:59 
+true
+05/03/19 05:09:08 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"UCjviAXImzT_NH0xMwlH2nlA","account_id":"300119044315","video_sub_view_time":"30-60"}
+06/03/19 02:22:01 
+true
+06/03/19 02:22:01 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+07/03/19 01:30:53 
+true
+07/03/19 01:30:53 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCPYEj2ojJ2RRfImub6Qq1OA","account_id":"310119071504","video_sub_view_time":"30-60"}
+07/03/19 01:32:30 
+true
+07/03/19 01:32:41 
+{"video_sub_id":"35jj2uHChdY","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+07/03/19 01:34:33 
+true
+07/03/19 01:34:41 
+{"video_sub_id":"fLuMODpwSpU","account_channel_id":"UCiAfO7s5l1SB_oLsFqh55fw","account_id":"310119071332","video_sub_view_time":"31-61"}
+07/03/19 01:36:33 
+true
+07/03/19 01:36:41 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"UCjviAXImzT_NH0xMwlH2nlA","account_id":"300119044315","video_sub_view_time":"60-120"}
+07/03/19 08:43:03 
+true
+07/03/19 08:43:03 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"60-120"}
+08/03/19 04:17:08 
+true
+08/03/19 04:17:09 
+{"video_sub_id":"fLuMODpwSpU","account_channel_id":"UC8u5tO9ZBEOGI8yW8gxBrRw","account_id":"310119071532","video_sub_view_time":"31-61"}
+08/03/19 04:19:34 
+true
+08/03/19 04:19:35 Server returned HTTP response code: 500 for URL: http://channel.simplesolution.co/backend/index.php/VideoSubController/getVideoAndAccountSub
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+19/03/19 08:04:58 
+{"video_sub_id":"JYeaRjiWqKE","account_channel_id":"UCjviAXImzT_NH0xMwlH2nlA","account_id":"300119044315","video_sub_view_time":"30-60"}
+19/03/19 12:52:31 
+true
+19/03/19 12:52:32 
+{"video_sub_id":"JYeaRjiWqKE","account_channel_id":"UC8u5tO9ZBEOGI8yW8gxBrRw","account_id":"310119071532","video_sub_view_time":"30-60"}
+26/03/19 08:33:10 
+true
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+26/03/19 04:05:20 
+{"video_sub_id":"QkVv309o2Ls","account_channel_id":"UC8u5tO9ZBEOGI8yW8gxBrRw","account_id":"310119071532","video_sub_view_time":"30-60"}
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+IP không thể kết nối , reset lại ip
+IP không thể kết nối , reset lại ip
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+26/03/19 05:06:56 
+{"video_sub_id":"aJcaODCon7s","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+26/03/19 05:08:23 
+true
+26/03/19 05:08:34 
+{"video_sub_id":"aJcaODCon7s","account_channel_id":"UC8u5tO9ZBEOGI8yW8gxBrRw","account_id":"310119071532","video_sub_view_time":"30-60"}
+26/03/19 05:09:39 
+true
+26/03/19 05:09:49 
+{"video_sub_id":"8QpnDj5iO-Y","account_channel_id":"UCjviAXImzT_NH0xMwlH2nlA","account_id":"300119044315","video_sub_view_time":"20-40"}
+26/03/19 05:10:44 
+true
+26/03/19 05:10:52 
+{"video_sub_id":"itkc6ToWwHE","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+26/03/19 05:11:59 
+true
+26/03/19 05:12:07 
+{"video_sub_id":"7Ie-dRHAE4I","account_channel_id":"asdsdsdsdsdsdsdsdsdsdsdsdsd","account_id":"030319084001","video_sub_view_time":"30-60"}
+27/03/19 08:27:01 
+{"video_sub_id":"xQvqaX306co","account_channel_id":"UCLIt_csUWO_UNghUbIQt0nw","account_id":"300119044122","video_sub_view_time":"30-60"}
+Chưa có video sub chờ video kế
+Chưa có video sub chờ video kế
+27/03/19 09:26:28 
+{"video_sub_id":"9mAJIzI-KTk","account_channel_id":"UCPrJowf5HcroAkhmtj3kWIg","account_id":"310119071611","video_sub_view_time":"30-60"}
+27/03/19 09:27:57 
+true
+27/03/19 09:28:07 
+{"video_sub_id":"itkc6ToWwHE","account_channel_id":"UC8u5tO9ZBEOGI8yW8gxBrRw","account_id":"310119071532","video_sub_view_time":"30-60"}
+27/03/19 09:29:40 
+true
+27/03/19 09:29:49 
+{"video_sub_id":"aJcaODCon7s","account_channel_id":"UCl4ZR1xHbEl8uQ93v1h6-Aw","account_id":"300119044726","video_sub_view_time":"30-60"}
+27/03/19 09:30:56 
+true
+27/03/19 09:31:04 
+{"video_sub_id":"xQvqaX306co","account_channel_id":"UCiAfO7s5l1SB_oLsFqh55fw","account_id":"310119071332","video_sub_view_time":"30-60"}
+27/03/19 09:35:15 
+{"video_sub_id":"8QpnDj5iO-Y","account_channel_id":"UCiAfO7s5l1SB_oLsFqh55fw","account_id":"310119071332","video_sub_view_time":"20-40"}
+27/03/19 09:36:14 
+true
+27/03/19 09:36:23 
+false
+27/03/19 09:37:24 
+false
+27/03/19 09:38:27 
+false
+08/04/19 01:41:03 
+false
+08/04/19 01:42:04 
+false
+08/04/19 01:44:00 
+false
+08/04/19 01:45:01 
+false
+DESKTOP-IOEK7UH 08/04/19 01:46:44 
+false
+DESKTOP-IOEK7UH 08/04/19 01:47:45 
+false
+DESKTOP-IOEK7UH 08/04/19 01:48:48 
+false
+DESKTOP-IOEK7UH 08/04/19 01:49:51 
+false
+DESKTOP-IOEK7UH 08/04/19 01:50:54 
+false
+DESKTOP-IOEK7UH 08/04/19 01:51:57 
+false
+DESKTOP-IOEK7UH 08/04/19 01:53:00 
+false
+DESKTOP-IOEK7UH 08/04/19 01:54:03 
+false
+DESKTOP-IOEK7UH 08/04/19 01:55:06 
+false
+DESKTOP-IOEK7UH 08/04/19 01:56:09 
+false
+DESKTOP-IOEK7UH 08/04/19 01:57:12 
+false
+DESKTOP-IOEK7UH 08/04/19 01:58:15 
+false
+DESKTOP-IOEK7UH 08/04/19 01:59:20 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"UCHEWU_LxlQS7YRLWhQyOd-g","account_id":"190219011952","video_sub_view_time":"90-120"}
+DESKTOP-IOEK7UH 08/04/19 02:00:23 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"UCq_hhA27KxPzVYa-uhUwyQg","account_id":"030419175509","video_sub_view_time":"90-120"}
+08/04/19 02:03:41 
+true
+DESKTOP-IOEK7UH 08/04/19 02:04:52 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"UCxbkKaxKGWMWRUW6ND2JdWA","account_id":"200219050054","video_sub_view_time":"90-120"}
+DESKTOP-IOEK7UH 08/04/19 02:05:56 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"UC4nICdqTz6aYRJWeJ3Q9pkg","account_id":"050419080231","video_sub_view_time":"90-120"}
+08/04/19 02:09:16 
+true
+DESKTOP-IOEK7UH 08/04/19 02:09:25 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"UCkf2iE9TsoogML5ySU5P8dg","account_id":"190219015800","video_sub_view_time":"90-120"}
+DESKTOP-IOEK7UH 08/04/19 02:10:29 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"UC_6-UxX917EdaPlpqY5exJg","account_id":"020419094615","video_sub_view_time":"90-120"}
+DESKTOP-IOEK7UH 08/04/19 02:11:33 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"UCsGWgvg9n2nMoGlRF4cwfjA","account_id":"210219035249","video_sub_view_time":"90-120"}
+DESKTOP-IOEK7UH 08/04/19 02:14:28 
+{"video_sub_id":"iz0uTbUlhf0","account_channel_id":"UC-I6OIRdnZQlqADiAchr3Yg","account_id":"200219023415","video_sub_view_time":"90-120"}
+DESKTOP-IOEK7UH 23/05/19 09:30:16 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJvJboSFaZQ_MgIsvJ9fCtQ","account_id":"220419131907","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:31:19 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCdRBtYqRRptsDlGO06s23pQ","account_id":"1400519082356","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 09:37:29 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCSvHYrMT_c3ihw-2Z-36T3g","account_id":"220419131906","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 09:38:30 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCACsCTbegaW5zZQOYVy5NTQ","account_id":"1400519082033","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:46:12 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCAuX9--o9zvDD0VHfSSw__w","account_id":"220419131527","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:47:16 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCf70i23TU_rnkDhWF8_AT_Q","account_id":"220419131254","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:51:57 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCARN7Olt1Tq57TGJ3W3BUAA","account_id":"220419131822","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:53:01 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCQJiqUYKxu_hMDBCaD_TLLw","account_id":"220419131718","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:54:05 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCvdMBYYNt9cYE66rezFZaeg","account_id":"220419131339","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:55:07 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC49V5j11uq8rAq33WXZVd_Q","account_id":"220419131911","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:56:11 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJyHp7X7RvuXrG9mGBnCzbA","account_id":"220419131853","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:57:11 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCYKRuLs6aAByZwXGdqhSOGQ","account_id":"220419131910","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:57:34 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC_qplCOTRHCn6qHhNGA0qWQ","account_id":"220419131454","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:57:58 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC4wE1JFAgyslaEEmpJQ5_Vg","account_id":"220419131427","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:58:22 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCS0Dy9CgurTgcp76zsbWu6Q","account_id":"220419131843","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:58:46 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCaH7wuNbRAgnGt4UqyGttpA","account_id":"220419131724","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 09:59:10 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC3H9KAHBNYeezRsi5SY74Xg","account_id":"220419131516","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:23:28 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC9naMm6jspdBpk0YFh9LbWQ","account_id":"220419131308","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:23:52 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJ3ECyvjF0wW0-tTj9ZNnZA","account_id":"220419131609","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:24:17 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC-jdNyKco3m2xyt8odToVcA","account_id":"220419131611","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:24:41 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC27RBmN30Jp3aAd4w52XXeQ","account_id":"220419131851","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:25:05 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCepDo1op6BAmRz8lXR1KfOQ","account_id":"220419131259","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:25:29 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCVEOWQGaaZUia_idZYt6u2g","account_id":"1400519082041","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:31:05 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC-8vSIteKkRkdY2J5eibDZg","account_id":"220419131523","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:31:28 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCaFMX-2EIuE-Ko5L1z7_0TA","account_id":"220419131654","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:31:52 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC48Kiywyr-x2lkRxfwNOznw","account_id":"220419131902","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:32:16 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCq79g8AitHAHz0SLc_tOJUg","account_id":"220419131804","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:32:37 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCxiiRUnMdj36cpuu2cWJN0w","account_id":"220419131241","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:32:58 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCS0Dy9CgurTgcp76zsbWu6Q","account_id":"220419131843","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:33:19 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC_G8ivZojFJH0wuglyU5IMQ","account_id":"220419131730","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:33:43 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCa7z15pTSTGutpphuq9uZOg","account_id":"220419131517","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:34:05 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCB9xoCDPBhjy89OD1-SEtNQ","account_id":"220419131806","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:34:28 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC2dzqWtGwr_mtsyR2q5yjpQ","account_id":"220419131459","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:34:49 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCuJN8J4AR6IvMtu7tETWgcw","account_id":"220419131509","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:35:10 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC3H9KAHBNYeezRsi5SY74Xg","account_id":"220419131516","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:35:31 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCZhUap0BJBOMxjkbQt6hopA","account_id":"220419131859","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:35:52 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCARN7Olt1Tq57TGJ3W3BUAA","account_id":"220419131822","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:36:13 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCugqw9tQ0CRqYeygP5_ZWtQ","account_id":"220419131429","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:36:34 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCcv7oByZsxfBVK8aoJsfmcQ","account_id":"220419131444","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:36:55 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCkwwO4-2IUa4RzhvyLE1hpQ","account_id":"220419131802","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:37:16 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCuIn_vdDgD6Zm9Z0mjpQxLw","account_id":"220419131559","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:37:40 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCGg8BO5VyhBBTMOVd5ygeGw","account_id":"220419131811","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:38:02 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCitSM1gSSL6vSDM1CNL7Wcw","account_id":"220419131607","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:38:25 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCygP-ZI3Fo0OpwqskgGP4GQ","account_id":"220419131706","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 10:38:49 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCACsCTbegaW5zZQOYVy5NTQ","account_id":"1400519082033","video_sub_view_time":"30-60"}
+23/05/19 10:41:46 
+true
+DESKTOP-IOEK7UH 23/05/19 10:42:10 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCfPWggbFTu3UADPUtOFCbQg","account_id":"220419131756","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:42:32 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCOSk9XH_pJ_Eh72e7Nazl2Q","account_id":"220419131704","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:42:55 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCJ3ECyvjF0wW0-tTj9ZNnZA","account_id":"220419131609","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:43:19 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCuqzoYkkfuwLoDm16I1mMCA","account_id":"220419131814","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:43:43 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCJvJboSFaZQ_MgIsvJ9fCtQ","account_id":"220419131907","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:44:07 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCVXUKXwvuZMFESVCNx0XrHg","account_id":"220419131703","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:44:28 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCtr-6BqXXG0O5xB8FSxficA","account_id":"220419131426","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:44:52 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC5HkTa1xZPj5t-BJjY9zVuQ","account_id":"220419131552","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:45:16 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC6Kx8ERh4qYqlofynIT3rfQ","account_id":"220419131342","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:45:37 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC9f6g7viY17_BSP1FuDANeg","account_id":"220419131605","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:46:02 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC5nIHfsDaxB1-qD0_de050A","account_id":"220419131504","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:46:25 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCiTZN1KRiAak2CXjxkT0kPA","account_id":"220419131629","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:46:46 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCchU-otjmznnyDpI5JIWUaA","account_id":"220419131823","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:47:11 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC7AJW966iiKAAIl2sjjcdOA","account_id":"220419131551","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:47:34 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCy8lOT2fmcNwx3NbsdtGBLQ","account_id":"220419131512","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:47:55 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCU47Q9Ces6OVd1bkpUn0ttA","account_id":"220419131221","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:48:17 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCeMltPC-NrQKCrL5QI6beKg","account_id":"220419131750","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:48:41 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCGg8BO5VyhBBTMOVd5ygeGw","account_id":"220419131811","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:49:04 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC3H9KAHBNYeezRsi5SY74Xg","account_id":"220419131516","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:49:28 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCZCVFpsqGiddx7medEVfAfQ","account_id":"220419131245","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:49:49 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC-WDHqvyAdEyG2DUDjNKJmA","account_id":"220419131456","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:50:11 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCVOPCmL5p6Sw8thKLW-dK4Q","account_id":"220419131720","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:50:34 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCARN7Olt1Tq57TGJ3W3BUAA","account_id":"220419131822","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:50:55 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCsGWgvg9n2nMoGlRF4cwfjA","account_id":"220419131742","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:51:17 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC6Kx8ERh4qYqlofynIT3rfQ","account_id":"220419131342","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:51:40 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCitSM1gSSL6vSDM1CNL7Wcw","account_id":"220419131607","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:52:05 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCiTZN1KRiAak2CXjxkT0kPA","account_id":"220419131629","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:52:28 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCjeiUU_T2UdPSTRPhO-o4Jw","account_id":"220419131519","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:52:52 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCjvx-80h8Xw_D-KbRqp_Uzw","account_id":"220419131407","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:53:13 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCeMltPC-NrQKCrL5QI6beKg","account_id":"220419131750","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:53:34 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCjvx-80h8Xw_D-KbRqp_Uzw","account_id":"220419131407","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:53:56 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCJyHp7X7RvuXrG9mGBnCzbA","account_id":"220419131853","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:54:20 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCzg4HI-nUatvIGAnSiNT7WQ","account_id":"220419131846","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:54:43 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCSNt_ozg7tRtpmEun2vh1HA","account_id":"220419131712","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:55:08 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UClcy9Pni2GkNLZ2tNsQJElw","account_id":"220419131819","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:55:32 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCjocCO-qNt8luGEZI8SxKRA","account_id":"220419131838","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:55:56 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC_xp4FC5r1Thl0KbUCPMbDw","account_id":"220419131850","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:56:20 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCryrGDe862DYGddE_wnhAUg","account_id":"220419131311","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:56:43 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC-jdNyKco3m2xyt8odToVcA","account_id":"220419131611","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:57:07 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCHA4XAWIbRTef-0VO62yxNw","account_id":"220419131237","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:57:28 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCqnqmhMRZrD4I9autzZaxXA","account_id":"220419131234","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:57:50 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC50CvQafbYQ4WUp4chZ9_CA","account_id":"220419131726","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:58:13 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCcv7oByZsxfBVK8aoJsfmcQ","account_id":"220419131444","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:58:34 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCtr-6BqXXG0O5xB8FSxficA","account_id":"220419131426","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:58:59 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCVOPCmL5p6Sw8thKLW-dK4Q","account_id":"220419131720","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:59:22 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC49V5j11uq8rAq33WXZVd_Q","account_id":"220419131911","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 10:59:46 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC-jdNyKco3m2xyt8odToVcA","account_id":"220419131611","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:00:08 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC25SYy44zjfl8LxgZ7FfD1Q","account_id":"220419131633","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:00:31 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCaH7wuNbRAgnGt4UqyGttpA","account_id":"220419131724","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:00:52 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCjBSDj0QZrJRUMVN0zMQZIg","account_id":"220419131248","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:01:13 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC-I6OIRdnZQlqADiAchr3Yg","account_id":"220419131627","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:01:34 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCVXUKXwvuZMFESVCNx0XrHg","account_id":"220419131703","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:01:56 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCT_8jJrRehwdrT2BDVH12iw","account_id":"220419131619","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:02:19 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC6Kx8ERh4qYqlofynIT3rfQ","account_id":"220419131342","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:02:41 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCqnqmhMRZrD4I9autzZaxXA","account_id":"220419131234","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:03:05 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCvjvxwCYDEqQjcof-xuNTjg","account_id":"220419131652","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:03:29 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCCtmqg8SagF0ER74Qrm7HZg","account_id":"220419131521","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:03:53 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCq79g8AitHAHz0SLc_tOJUg","account_id":"220419131804","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:04:17 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCT_8jJrRehwdrT2BDVH12iw","account_id":"220419131619","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:04:37 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCtr-6BqXXG0O5xB8FSxficA","account_id":"220419131426","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:04:59 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCcU4snL6ZythSMqfj-EqYQQ","account_id":"220419131331","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:05:23 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC5nIHfsDaxB1-qD0_de050A","account_id":"220419131504","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:05:47 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCr7mvq_fAS2zdtFRNbfIxHw","account_id":"220419131831","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:06:11 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC_IRPBj-uOA6FVopeu3Z1LQ","account_id":"220419131322","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:06:35 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCugqw9tQ0CRqYeygP5_ZWtQ","account_id":"220419131429","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:06:58 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCTC35q2KHhjWQ-0lwbxIBsQ","account_id":"220419131249","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:07:20 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCTNlPaA6YmjK9pOfznAy9Iw","account_id":"220419131319","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:07:40 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC0fVj7Ia_iWtBbyXsW0QK6w","account_id":"220419131824","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:08:02 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCVn5hUlESoYV8FJEHrJ9kXA","account_id":"220419131744","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:08:26 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCf70i23TU_rnkDhWF8_AT_Q","account_id":"220419131254","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:08:50 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCjAiVAslCXGHDZpM7gX80Sw","account_id":"220419131828","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:09:13 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCqnqmhMRZrD4I9autzZaxXA","account_id":"220419131234","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:09:35 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UClcy9Pni2GkNLZ2tNsQJElw","account_id":"220419131819","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:09:59 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCS0Dy9CgurTgcp76zsbWu6Q","account_id":"220419131843","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:10:22 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCRYc6dD2uJ-fazaRXKkoNDQ","account_id":"220419131435","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:10:43 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCQJiqUYKxu_hMDBCaD_TLLw","account_id":"220419131718","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:11:05 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCzg4HI-nUatvIGAnSiNT7WQ","account_id":"220419131846","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:11:29 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCqlAWA05cAMUUmhIL718B5w","account_id":"220419131752","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:11:53 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC-vFfBhkD3aJHypx00lKr6g","account_id":"220419131359","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:12:17 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC0KEdq5IGLVqbF9-_vQD9lw","account_id":"220419131812","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:12:41 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCHEWU_LxlQS7YRLWhQyOd-g","account_id":"220419131438","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:13:04 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCWkztbiBudavuQjx67CRiPg","account_id":"220419131810","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:13:26 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCU47Q9Ces6OVd1bkpUn0ttA","account_id":"220419131221","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:13:47 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCr_TIh64838VC3AUgTHcK-A","account_id":"220419131338","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:14:08 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UC8d1sBoFEkXaAYl3Kn8UzEA","account_id":"220419131333","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:14:29 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCh0BPiLepaJU0uIEVDpeR_A","account_id":"220419131224","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:14:50 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCVEOWQGaaZUia_idZYt6u2g","account_id":"1400519082041","video_sub_view_time":"60-100"}
+23/05/19 11:18:25 
+true
+DESKTOP-IOEK7UH 23/05/19 11:18:44 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCqjamF8NRot3j76tyT0_fBA","account_id":"220419131452","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:19:08 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCEyVM73FlBmS6k8vJPMzHqw","account_id":"220419131815","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:19:29 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCYcw2ePPM0ALdT5TV8Woo6Q","account_id":"220419131240","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:19:50 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC-9OsdFuvMBljsqUGdRu1Fw","account_id":"220419131300","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:20:11 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCaFMX-2EIuE-Ko5L1z7_0TA","account_id":"220419131654","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:20:32 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCsqPjjiwVVAx_pPkjcbjtTw","account_id":"220419131834","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:20:52 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCFdK6VKuvr4-jh-qJTO_0Sw","account_id":"220419131541","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:21:14 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCP4ySXa6heOnpzBVITZ-5uw","account_id":"220419131557","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:21:37 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCZCVFpsqGiddx7medEVfAfQ","account_id":"220419131245","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:21:59 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCaH7wuNbRAgnGt4UqyGttpA","account_id":"220419131724","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:22:23 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCuqzoYkkfuwLoDm16I1mMCA","account_id":"220419131814","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:22:44 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCHEWU_LxlQS7YRLWhQyOd-g","account_id":"220419131438","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:23:05 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCqnqmhMRZrD4I9autzZaxXA","account_id":"220419131234","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:23:26 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCSmGW1aLyUhKfaNE1XqjqbA","account_id":"220419131555","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:23:47 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCFdK6VKuvr4-jh-qJTO_0Sw","account_id":"220419131541","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:24:08 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCugqw9tQ0CRqYeygP5_ZWtQ","account_id":"220419131429","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:24:32 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCRBCbd-QEXEd85FKFmTzNXg","account_id":"220419131837","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:24:53 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCryrGDe862DYGddE_wnhAUg","account_id":"220419131311","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:25:14 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCjBSDj0QZrJRUMVN0zMQZIg","account_id":"220419131248","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:25:35 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC48Kiywyr-x2lkRxfwNOznw","account_id":"220419131902","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:25:56 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCVOPCmL5p6Sw8thKLW-dK4Q","account_id":"220419131720","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:26:20 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC-LmOTUz0YM0Cg8jwZj3NHA","account_id":"220419131232","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:26:41 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCP4ySXa6heOnpzBVITZ-5uw","account_id":"220419131557","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:27:05 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCVOPCmL5p6Sw8thKLW-dK4Q","account_id":"220419131720","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:27:29 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC8-D5ynybsDHLgT5dZxHamQ","account_id":"220419131621","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:27:50 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC-vFfBhkD3aJHypx00lKr6g","account_id":"220419131359","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:28:14 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCchU-otjmznnyDpI5JIWUaA","account_id":"220419131823","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:28:38 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCiTZN1KRiAak2CXjxkT0kPA","account_id":"220419131629","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:29:02 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC7AJW966iiKAAIl2sjjcdOA","account_id":"220419131551","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:29:26 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCjvx-80h8Xw_D-KbRqp_Uzw","account_id":"220419131407","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:29:50 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC1jMTE5XeZ8aOLHn6bLpAIA","account_id":"220419131845","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:30:14 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC-vFfBhkD3aJHypx00lKr6g","account_id":"220419131359","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:30:38 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCZCVFpsqGiddx7medEVfAfQ","account_id":"220419131245","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:31:02 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCJqivunr4uMUrvj69c3v4SA","account_id":"220419131818","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:31:26 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCzg4HI-nUatvIGAnSiNT7WQ","account_id":"220419131846","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:31:47 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCy8lOT2fmcNwx3NbsdtGBLQ","account_id":"220419131512","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:32:11 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC5HkTa1xZPj5t-BJjY9zVuQ","account_id":"220419131552","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:32:35 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCQJiqUYKxu_hMDBCaD_TLLw","account_id":"220419131718","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:32:56 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCjBSDj0QZrJRUMVN0zMQZIg","account_id":"220419131248","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:33:20 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCrl0ZSAhiLLoTZBwyLZ02kg","account_id":"220419131847","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:33:44 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCiTZN1KRiAak2CXjxkT0kPA","account_id":"220419131629","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:34:06 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC_G8ivZojFJH0wuglyU5IMQ","account_id":"220419131730","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:34:29 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCAuX9--o9zvDD0VHfSSw__w","account_id":"220419131527","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:34:50 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCJyjfsp8bAKAqHYy86b9HjQ","account_id":"220419131807","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:35:14 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCFLDRRyjsVKvq0AjxbntI3g","account_id":"220419131256","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:35:35 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCUP6mCzOvYoN3dElQduqeLQ","account_id":"220419131854","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:35:59 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCe8a1Jxq72_ZrrkM5k4oGAQ","account_id":"220419131808","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:36:23 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCYcw2ePPM0ALdT5TV8Woo6Q","account_id":"220419131240","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:36:44 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCrl0ZSAhiLLoTZBwyLZ02kg","account_id":"220419131847","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:37:05 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC-8vSIteKkRkdY2J5eibDZg","account_id":"220419131523","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:37:29 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCsqPjjiwVVAx_pPkjcbjtTw","account_id":"220419131834","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:37:50 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UCy8lOT2fmcNwx3NbsdtGBLQ","account_id":"220419131512","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:38:14 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC9_aQ9fRLBv1vVGwQOxoPZg","account_id":"220419131830","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:38:38 
+{"video_sub_id":"Z1A8Nu24pQ8","account_channel_id":"UC0G0WgfZq3lZR7_RPmObG6g","account_id":"220419131547","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 23/05/19 11:38:59 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC6Kx8ERh4qYqlofynIT3rfQ","account_id":"220419131342","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:39:23 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCB9xoCDPBhjy89OD1-SEtNQ","account_id":"220419131806","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:39:47 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCVTJZCdYxo-jeNhCJ4zRUuA","account_id":"220419131345","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:40:08 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCV3o8uexq4RHUIuzUEWMyEQ","account_id":"220419131803","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:40:32 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCSmGW1aLyUhKfaNE1XqjqbA","account_id":"220419131555","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:40:56 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC8d1sBoFEkXaAYl3Kn8UzEA","account_id":"220419131333","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:41:17 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCeMltPC-NrQKCrL5QI6beKg","account_id":"220419131750","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:41:41 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCaaoKxn2jZzjtavJtqUXXSA","account_id":"220419131334","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:42:02 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC7AJW966iiKAAIl2sjjcdOA","account_id":"220419131551","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:42:26 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC27RBmN30Jp3aAd4w52XXeQ","account_id":"220419131851","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:42:47 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCe8a1Jxq72_ZrrkM5k4oGAQ","account_id":"220419131808","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:43:11 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCf70i23TU_rnkDhWF8_AT_Q","account_id":"220419131254","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:43:32 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCWkztbiBudavuQjx67CRiPg","account_id":"220419131810","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:43:53 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCy8lOT2fmcNwx3NbsdtGBLQ","account_id":"220419131512","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:44:17 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCveatyrHySsMnlIcln22Suw","account_id":"220419131714","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:44:41 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC-jdNyKco3m2xyt8odToVcA","account_id":"220419131611","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:45:03 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCzJhX2sC1Ixt3gvq11luhmQ","account_id":"220419131901","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:45:26 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC4wE1JFAgyslaEEmpJQ5_Vg","account_id":"220419131427","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:45:47 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCryrGDe862DYGddE_wnhAUg","account_id":"220419131311","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:46:11 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCFLDRRyjsVKvq0AjxbntI3g","account_id":"220419131256","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:46:32 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCARN7Olt1Tq57TGJ3W3BUAA","account_id":"220419131822","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:46:56 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCGg8BO5VyhBBTMOVd5ygeGw","account_id":"220419131811","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:47:17 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCrl1brHnlSub1og7sF8oxuQ","account_id":"220419131800","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:47:38 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCARN7Olt1Tq57TGJ3W3BUAA","account_id":"220419131822","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:47:59 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCCFbm06B8D0RHCdOiPjNfUw","account_id":"220419131243","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:48:23 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCaaoKxn2jZzjtavJtqUXXSA","account_id":"220419131334","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:48:44 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCxiiRUnMdj36cpuu2cWJN0w","account_id":"220419131241","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:49:05 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC8zzv0_fP5NkHp8GSdsnNDA","account_id":"220419131855","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:49:26 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJyjfsp8bAKAqHYy86b9HjQ","account_id":"220419131807","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:49:47 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCARN7Olt1Tq57TGJ3W3BUAA","account_id":"220419131822","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:50:11 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC-I6OIRdnZQlqADiAchr3Yg","account_id":"220419131627","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:50:32 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCa7z15pTSTGutpphuq9uZOg","account_id":"220419131517","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:50:53 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJvJboSFaZQ_MgIsvJ9fCtQ","account_id":"220419131907","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:51:17 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC4wE1JFAgyslaEEmpJQ5_Vg","account_id":"220419131427","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:51:38 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC9_aQ9fRLBv1vVGwQOxoPZg","account_id":"220419131830","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:51:59 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCyWBzh6HkS1PKw6klKy2lMQ","account_id":"220419131536","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:52:20 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCYKRuLs6aAByZwXGdqhSOGQ","account_id":"220419131910","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:52:44 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCS5pAhZZs0N3uTtWtfp_sWQ","account_id":"220419131449","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:53:05 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCsGWgvg9n2nMoGlRF4cwfjA","account_id":"220419131742","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:53:29 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC3B6CzFiNRsH-piGplOdkYg","account_id":"220419131832","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:53:53 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC49V5j11uq8rAq33WXZVd_Q","account_id":"220419131911","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:54:17 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCr_TIh64838VC3AUgTHcK-A","account_id":"220419131338","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:54:38 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC49V5j11uq8rAq33WXZVd_Q","account_id":"220419131911","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:54:59 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCn8juAi_G2tokwr4KjFAkDg","account_id":"220419131457","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:55:20 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCVURJW9W-d9Vermb4K9u2IQ","account_id":"220419131839","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:55:44 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC9naMm6jspdBpk0YFh9LbWQ","account_id":"220419131308","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:56:05 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCkwwO4-2IUa4RzhvyLE1hpQ","account_id":"220419131802","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:56:29 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJyHp7X7RvuXrG9mGBnCzbA","account_id":"220419131853","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:56:53 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCVOPCmL5p6Sw8thKLW-dK4Q","account_id":"220419131720","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:57:14 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJ3ECyvjF0wW0-tTj9ZNnZA","account_id":"220419131609","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:57:38 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJyjfsp8bAKAqHYy86b9HjQ","account_id":"220419131807","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:57:59 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC9_aQ9fRLBv1vVGwQOxoPZg","account_id":"220419131830","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:58:20 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCS5pAhZZs0N3uTtWtfp_sWQ","account_id":"220419131449","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:58:41 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC7AJW966iiKAAIl2sjjcdOA","account_id":"220419131551","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:59:05 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCgyamne_lMXgLLOS6Xr9fJw","account_id":"220419131413","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:59:26 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC_UcBmbJB83yJ7ZlZYF_v6g","account_id":"220419131420","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 11:59:47 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCjAiVAslCXGHDZpM7gX80Sw","account_id":"220419131828","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:00:11 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCq7f6Blim7t1qV9kxTEGrSA","account_id":"220419131759","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:00:35 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"https:\/\/www.youtube.com\/create_channel","account_id":"220419131913","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:00:56 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC4wE1JFAgyslaEEmpJQ5_Vg","account_id":"220419131427","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:01:17 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCGg8BO5VyhBBTMOVd5ygeGw","account_id":"220419131811","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:01:38 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCuIn_vdDgD6Zm9Z0mjpQxLw","account_id":"220419131559","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:01:59 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCP4ySXa6heOnpzBVITZ-5uw","account_id":"220419131557","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:02:23 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCU47Q9Ces6OVd1bkpUn0ttA","account_id":"220419131221","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:02:47 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC2T3WcxhMbd8OBmhT3h084g","account_id":"220419131636","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:03:09 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCqnqmhMRZrD4I9autzZaxXA","account_id":"220419131234","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:03:32 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC-I6OIRdnZQlqADiAchr3Yg","account_id":"220419131627","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:03:53 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC59BBf44WbiGQLp9dZ1NQoQ","account_id":"220419131246","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:04:14 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCZhUap0BJBOMxjkbQt6hopA","account_id":"220419131859","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:04:35 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC59BBf44WbiGQLp9dZ1NQoQ","account_id":"220419131246","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:04:56 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCYcw2ePPM0ALdT5TV8Woo6Q","account_id":"220419131240","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:05:17 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC9_aQ9fRLBv1vVGwQOxoPZg","account_id":"220419131830","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:05:38 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCsc-S5qEOqJdz-qGbX1H-sw","account_id":"220419131628","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:06:03 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCSNt_ozg7tRtpmEun2vh1HA","account_id":"220419131712","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:06:26 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCVXUKXwvuZMFESVCNx0XrHg","account_id":"220419131703","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:06:47 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCdzoBP01c18GTGRCfXZV8VA","account_id":"220419131747","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:07:08 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCFVxNW9oP8XEiT0-6vXLZlA","account_id":"220419131347","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 23/05/19 12:07:29 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC-vFfBhkD3aJHypx00lKr6g","account_id":"220419131359","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:47:30 
+false
+DESKTOP-IOEK7UH 24/05/19 04:47:51 
+false
+DESKTOP-IOEK7UH 24/05/19 04:48:12 
+false
+DESKTOP-IOEK7UH 24/05/19 04:48:33 
+false
+DESKTOP-IOEK7UH 24/05/19 04:48:54 
+false
+DESKTOP-IOEK7UH 24/05/19 04:49:15 
+false
+DESKTOP-IOEK7UH 24/05/19 04:49:36 
+false
+DESKTOP-IOEK7UH 24/05/19 04:49:57 
+false
+DESKTOP-IOEK7UH 24/05/19 04:50:18 
+false
+DESKTOP-IOEK7UH 24/05/19 04:50:39 
+false
+DESKTOP-IOEK7UH 24/05/19 04:51:00 
+false
+DESKTOP-IOEK7UH 24/05/19 04:51:21 
+false
+DESKTOP-IOEK7UH 24/05/19 04:51:42 
+false
+DESKTOP-IOEK7UH 24/05/19 04:52:03 
+false
+DESKTOP-IOEK7UH 24/05/19 04:52:24 
+false
+DESKTOP-IOEK7UH 24/05/19 04:52:45 
+false
+DESKTOP-IOEK7UH 24/05/19 04:53:06 
+false
+DESKTOP-IOEK7UH 24/05/19 04:53:28 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCFLDRRyjsVKvq0AjxbntI3g","account_id":"220419131256","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:53:49 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCFdK6VKuvr4-jh-qJTO_0Sw","account_id":"220419131541","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:54:13 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCVn5hUlESoYV8FJEHrJ9kXA","account_id":"220419131744","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:54:34 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCuJN8J4AR6IvMtu7tETWgcw","account_id":"220419131509","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:54:55 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCXn9IVN4r0kIWQ-slvF8qPg","account_id":"220419131612","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:55:16 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCgyamne_lMXgLLOS6Xr9fJw","account_id":"220419131413","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:55:37 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC4wE1JFAgyslaEEmpJQ5_Vg","account_id":"220419131427","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:56:01 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC-LmOTUz0YM0Cg8jwZj3NHA","account_id":"220419131232","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:56:25 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCgyamne_lMXgLLOS6Xr9fJw","account_id":"220419131413","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:56:46 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCzg4HI-nUatvIGAnSiNT7WQ","account_id":"220419131846","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:57:07 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCRGDua0_wlkPwiMJPrNBgJw","account_id":"220419131820","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:57:28 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCHEWU_LxlQS7YRLWhQyOd-g","account_id":"220419131438","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:57:49 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCyWBzh6HkS1PKw6klKy2lMQ","account_id":"220419131536","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:58:10 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC4wE1JFAgyslaEEmpJQ5_Vg","account_id":"220419131427","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:58:31 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCCtmqg8SagF0ER74Qrm7HZg","account_id":"220419131521","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:58:55 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCcU4snL6ZythSMqfj-EqYQQ","account_id":"220419131331","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:59:16 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC_qplCOTRHCn6qHhNGA0qWQ","account_id":"220419131454","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:59:37 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCiTZN1KRiAak2CXjxkT0kPA","account_id":"220419131629","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 04:59:58 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCcU4snL6ZythSMqfj-EqYQQ","account_id":"220419131331","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:00:22 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCOSk9XH_pJ_Eh72e7Nazl2Q","account_id":"220419131704","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:00:43 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCRGDua0_wlkPwiMJPrNBgJw","account_id":"220419131820","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:01:04 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCVn5hUlESoYV8FJEHrJ9kXA","account_id":"220419131744","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:01:25 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC_IRPBj-uOA6FVopeu3Z1LQ","account_id":"220419131322","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:01:46 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCygP-ZI3Fo0OpwqskgGP4GQ","account_id":"220419131706","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:02:10 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCaaoKxn2jZzjtavJtqUXXSA","account_id":"220419131334","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:02:31 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJ3ECyvjF0wW0-tTj9ZNnZA","account_id":"220419131609","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:02:52 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCJ3ECyvjF0wW0-tTj9ZNnZA","account_id":"220419131609","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:03:13 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCe8a1Jxq72_ZrrkM5k4oGAQ","account_id":"220419131808","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:03:37 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UC9naMm6jspdBpk0YFh9LbWQ","account_id":"220419131308","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:04:01 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCTC35q2KHhjWQ-0lwbxIBsQ","account_id":"220419131249","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:04:25 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCygP-ZI3Fo0OpwqskgGP4GQ","account_id":"220419131706","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:04:46 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCsqPjjiwVVAx_pPkjcbjtTw","account_id":"220419131834","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:05:07 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCFdK6VKuvr4-jh-qJTO_0Sw","account_id":"220419131541","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:05:28 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCBbvFX0BeJqFY9QUBgAnE8g","account_id":"220419131826","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:05:49 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCRGDua0_wlkPwiMJPrNBgJw","account_id":"220419131820","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:06:10 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCVn5hUlESoYV8FJEHrJ9kXA","account_id":"220419131744","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:06:31 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCugqw9tQ0CRqYeygP5_ZWtQ","account_id":"220419131429","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:06:52 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCXn9IVN4r0kIWQ-slvF8qPg","account_id":"220419131612","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:07:13 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCBbvFX0BeJqFY9QUBgAnE8g","account_id":"220419131826","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:07:34 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCn8juAi_G2tokwr4KjFAkDg","account_id":"220419131457","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:07:55 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCXn9IVN4r0kIWQ-slvF8qPg","account_id":"220419131612","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:08:16 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCgCmw4yKMbsLVfLD3B_fdAA","account_id":"220419131432","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:08:37 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCugqw9tQ0CRqYeygP5_ZWtQ","account_id":"220419131429","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:08:58 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCOSk9XH_pJ_Eh72e7Nazl2Q","account_id":"220419131704","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:09:19 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCBbvFX0BeJqFY9QUBgAnE8g","account_id":"220419131826","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:09:40 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCknCxj1g6rmkvNrrKwguQBQ","account_id":"220419131423","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:10:02 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCRGDua0_wlkPwiMJPrNBgJw","account_id":"220419131820","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 24/05/19 05:10:25 
+{"video_sub_id":"p8rp4ffsrCg","account_channel_id":"UCdRBtYqRRptsDlGO06s23pQ","account_id":"1400519082356","video_sub_view_time":"30-60"}
+DESKTOP-IOEK7UH 29/05/19 07:44:45 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCq7f6Blim7t1qV9kxTEGrSA","account_id":"220419131759","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 29/05/19 07:45:05 
+{"video_sub_id":"25vFZx7dra0","account_channel_id":"UCxbkKaxKGWMWRUW6ND2JdWA","account_id":"220419131655","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 01:14:45 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UCyKmU0VW0te92pLmtYkKXsQ","account_id":"1400519082000","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 01:16:38 
+{"video_sub_id":"WgJATJbl6Fs","account_channel_id":"UClwALLCFelaTakoAGQFdvlg","account_id":"1400519082307","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:18:44 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCOH4MbF8KnYj6CCS1dC0BaA","account_id":"1510519073457620","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:18:47 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCNEPPBZM8uLxxJG0P9_PA2g","account_id":"1510519073511517","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:18:50 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCZm8WHmHH_Nk-fwIjzW6xPQ","account_id":"220419131303","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:18:53 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCkf2iE9TsoogML5ySU5P8dg","account_id":"220419131450","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:18:56 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCqbgJ570lsRRq2HZlGg-XZg","account_id":"220419131409","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:21:51 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCAnpkUs7JuPKhVSqrf65DWg","account_id":"1510519073428824","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:21:54 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCa5d9gk9UhfW5vaOQlB7hug","account_id":"1510519073458900","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:21:57 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCAnpkUs7JuPKhVSqrf65DWg","account_id":"1510519073428824","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:21:59 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UC59BBf44WbiGQLp9dZ1NQoQ","account_id":"220419131246","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:22:03 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCXzlxmkFDkDQbKZMmh1ERAQ","account_id":"1510519073425578","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:22:05 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCqVSnbNhVjKnqdwtCOCkBkA","account_id":"1510519073430115","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:22:10 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCjexk5-wQ4RyWm9_654gRmw","account_id":"220419131252","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:22:15 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UC2ZiByHOgyLjR-QJL2WATUA","account_id":"220419131317","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:22:18 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UClcy9Pni2GkNLZ2tNsQJElw","account_id":"220419131819","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:22:21 
+{"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCXmex5so-_zUn4eJ4FyQalg","account_id":"220419131708","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:25:22 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCn8juAi_G2tokwr4KjFAkDg","account_id":"220419131457","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:29:19 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCOH4MbF8KnYj6CCS1dC0BaA","account_id":"1510519073457620","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:29:52 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UC_tS8laLoNL9LawjbqYDYHg","account_id":"1510519073434328","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:30:48 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCz9or1L65Xub2l9EXiuUykQ","account_id":"1510519073414332","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:31:22 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCuwyxh0r_atKBlRbBRCB3rA","account_id":"220419131858","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:32:52 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCqbgJ570lsRRq2HZlGg-XZg","account_id":"220419131409","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:33:25 
+{"video_sub_id":"POjo62Px-lU","account_channel_id":"UCa_o6SDL52f5im-27Nx0iXA","account_id":"220419131325","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:34:49 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UC59BBf44WbiGQLp9dZ1NQoQ","account_id":"220419131246","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:40:03 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UC_IRPBj-uOA6FVopeu3Z1LQ","account_id":"220419131322","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:40:15 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCA50rvwyv52D0mW-mE441NA","account_id":"1510519073509252","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:40:48 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCqbgJ570lsRRq2HZlGg-XZg","account_id":"220419131409","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:41:21 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UC59BBf44WbiGQLp9dZ1NQoQ","account_id":"220419131246","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:41:54 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCxuVqKpxad0jzmN2dLxy6kw","account_id":"220419131532","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:42:27 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UC15GZFGy_Uz_yomQhJ6-tYw","account_id":"1510519073504089","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:43:00 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UCZm8WHmHH_Nk-fwIjzW6xPQ","account_id":"220419131303","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 04:43:33 
+{"video_sub_id":"QPxxB9dr7Sc","account_channel_id":"UCqbgJ570lsRRq2HZlGg-XZg","account_id":"220419131409","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 12/06/19 10:15:33 
+{"video_sub_id":"pQ1Ajjq2Nqs","account_channel_id":"UC21GjYPppyCzHrStJBWZtDA","account_id":"220419131511","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 25/06/19 11:03:29 {"video_sub_id":"m1c-5CWJYZI","account_channel_id":"UCrSoR8BjS14kjkt-YsUaixg","account_id":"230619135045774","video_sub_view_time":"60-100"}
+DESKTOP-IOEK7UH 25/06/19 12:08:15 {"video_sub_id":"25vFZx7dra0","account_channel_id":"UCdnQs7NYLPhEVLSNPYUlRHA","account_id":"1510519073512506","video_sub_view_time":"60-100"}
+DESKTOP-A06RFJE IP không thể kết nối , reset lại ip
+DESKTOP-A06RFJE 11/12/19 12:50:35 false
+DESKTOP-A06RFJE IP không thể kết nối , reset lại ip
+DESKTOP-A06RFJE 05/02/20 03:02:00 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCxtjirUslFzVE5byXuCe5TA","account_id":"270619142844332","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCK7JVg-YuM_PEUS9pD-EJXA","account_id":"170619142142","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:02:48 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCgp72drq5K5KJwB2vNuytoQ","account_id":"170619142007","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCZLQn_zHGmAQnoVp-73lJ_w","account_id":"170619142112","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:03:36 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCJw9OQc2JpL0lZQtNfMijNg","account_id":"170619142221","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCedtrpinKinF99fYM1VCmpw","account_id":"170619141945","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCPWLDzj77hSuR7yXJS-gTWw","account_id":"170619142240","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:07:01 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCZQjJEI4Z-rwszP7B0ELVSg","account_id":"170619142318","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_AzdpXn-egATc0oEBdQ90w","account_id":"270619142900261","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFQiHcrRvq_wpC7gecraTQw","account_id":"270619142842238","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:08:46 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCsl-gzEnNTuNL9RYklsqfwQ","account_id":"170619142248","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCkwsxY0FzDfh-pFlGW-3U4g","account_id":"270619142902629","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWUEAtZRVFORlyzzkDRpQlQ","account_id":"170619142129","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:23:55 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC2dXVxZPnlBD_g07-GfNj9A","account_id":"270619142847721","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKfzWIxpc9MpEY3qgY5NYig","account_id":"170619142212","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCCTXckUhvwoRCbPr9YgHJjg","account_id":"170619142321","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:26:30 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCPzYsB1fP5uh7WeYJV7Jerg","account_id":"170619142236","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCjHyt4XFXSrkHiMd5cCDrZA","account_id":"170619142149","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCILyYvdoXtLlglYaJbqeOGg","account_id":"170619142211","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:26:35 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCMKoRnwyTDqBGhWS6letItg","account_id":"170619142225","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKyA254DFC2d1sEbyo-YkQg","account_id":"170619142344","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:26:40 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWiON25DEOIAXjZcioD-j6Q","account_id":"170619142416","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCkCI0ixcNiQlFyesIRAKUqA","account_id":"270619142907710","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCm4xaCQrU4N-ZMu1SQiGK8g","account_id":"270619142839160","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:33:32 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCaFLVRN2X72PhCSu9gLKeiQ","account_id":"170619141924","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCHRzZ14TJiJMbMhzen4A2PA","account_id":"270619142851466","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCTXFeXQZUWwZKGXINOIUbJw","account_id":"170619142053","video_sub_view_time":"20-30"}]
+05/02/20 03:34:48 true
+DESKTOP-A06RFJE 05/02/20 03:35:02 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFEGO3jjTUb9cZsIHUtIzhw","account_id":"270619142852818","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC8Je_6m8QJtftaprvuzucbA","account_id":"170619142306","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCA0BjZ_jQJhh4M_eODmOuPg","account_id":"170619141927","video_sub_view_time":"20-30"}]
+05/02/20 03:36:31 true
+DESKTOP-A06RFJE 05/02/20 03:39:13 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCxuxbVe3lUu_pUO_-MGCRPw","account_id":"170619141912","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC0SVkiyxf34ucw2lsLqAprA","account_id":"170619142407","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC6NdW5-UhpMskFXpm0VCeoA","account_id":"170619142124","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:39:28 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCOVCHx0uYSY6lBQFhRw1SqQ","account_id":"270619142844682","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCU9a9TKZXfwsZQs9fKud1sw","account_id":"170619142054","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCjqqqpTWtjs2wszgoGHgmDw","account_id":"170619142341","video_sub_view_time":"20-30"}]
+05/02/20 03:40:49 true
+DESKTOP-A06RFJE 05/02/20 03:41:13 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCMpUqDcmi_SI4cZe8afCekw","account_id":"170619142234","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCPQFWBZsd3loQZIMg4uA7dg","account_id":"170619142041","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCLeI-C5SDWGBr2nl-0pv9Dg","account_id":"170619142411","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:42:03 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCdeMHT8ipBYYspCX2UCHcXw","account_id":"170619142327","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCkaONigOaHtd3sFZB8unyGw","account_id":"270619142859594","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCV5tGZq-hclKbxjdH9M8rNw","account_id":"270619142906689","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 03:42:48 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCnZsyVFNnEQd_lGj0vLX5Yw","account_id":"270619142850783","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:02:09 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC8DfBCxQS9PteVrbVjAR8mg","account_id":"270619142909045","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCS1IQWeC7apk15NM5PzlmtQ","account_id":"270619142848389","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCwircpqEEPLsX6pjtledRuA","account_id":"170619142347","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:03:37 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCd6YQnqF9W5FN9sZvZ4e9gg","account_id":"270619142841882","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWiON25DEOIAXjZcioD-j6Q","account_id":"170619142416","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC8Cgu4ZZNKeiLZPsc68J4Bw","account_id":"170619141842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:05:40 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCY4-p3ZGNCaXsUwsrlm4d0w","account_id":"170619142110","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCwHi9lU5uhJ2G8lelCH8QDA","account_id":"270619142859936","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfa725D7Fu2AWWhQzVkCpVQ","account_id":"270619142901968","video_sub_view_time":"20-30"}]
+05/02/20 06:06:54 true
+DESKTOP-A06RFJE 05/02/20 06:07:10 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKt9hkoR28dOTVZsTsc5nYA","account_id":"270619142900591","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCAZNdPS7GDhTkarov9xyT7g","account_id":"270619142857224","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:07:55 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCEtfFzwxl6lCQBnBlhTcN5Q","account_id":"170619142016","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCEnM4frKkSiltzeO_e7vslw","account_id":"170619141949","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWnKplghWHyFMcaKNYuCQeg","account_id":"170619142227","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:08:25 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCqRxC4adutFQH92d5fvsBgA","account_id":"270619142904662","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCxIm-0yUmnH5dhDWiEUzt5g","account_id":"270619142856882","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCdPdwivUdMMfhFgNMF49eig","account_id":"170619141941","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:13:05 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCyTDKYIF050p6CSCtJ1-pUw","account_id":"170619142154","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCCTXckUhvwoRCbPr9YgHJjg","account_id":"170619142321","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:14:35 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWjT2EcRXtVwUorRsrxz1Bw","account_id":"170619142210","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCo3JHWrbvgU4CenxS2bYAIw","account_id":"170619142128","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCOVCHx0uYSY6lBQFhRw1SqQ","account_id":"270619142844682","video_sub_view_time":"20-30"}]
+05/02/20 06:15:51 true
+DESKTOP-A06RFJE 05/02/20 06:16:04 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKqdlrgTLb0555bL_RgHJJg","account_id":"170619142150","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCwbSWALWuhzkMpy8ybP97Jw","account_id":"170619142413","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk2k6gaTcyVbSALqxan4UOQ","account_id":"170619142141","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:16:19 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCpaFcmxWZGgGol5Cb4YVQ-g","account_id":"170619142037","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCyFuIKDSPeOnMDTHTQSVE6A","account_id":"170619142108","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:16:34 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCpCuQP_jsKOiKILqwSPZudw","account_id":"170619142038","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCEtfFzwxl6lCQBnBlhTcN5Q","account_id":"170619142016","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:16:49 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCd6K3KtpyoRNSCyUQqz7T7g","account_id":"270619142850427","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCW0efQgYoMHh-ujty7-XadA","account_id":"170619142136","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCsl-gzEnNTuNL9RYklsqfwQ","account_id":"170619142248","video_sub_view_time":"20-30"}]
+05/02/20 06:18:15 true
+DESKTOP-A06RFJE 05/02/20 06:19:23 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCwircpqEEPLsX6pjtledRuA","account_id":"170619142347","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCwifL6vKSUY0a2ycpY0Dl6Q","account_id":"170619142404","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC8Cgu4ZZNKeiLZPsc68J4Bw","account_id":"170619141842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:19:38 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfO5w_rmlcnXGDE8om6p1ZQ","account_id":"170619142145","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfa725D7Fu2AWWhQzVkCpVQ","account_id":"270619142901968","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCw5B_ptaNcZBtSkbxIO_dXw","account_id":"170619142219","video_sub_view_time":"20-30"}]
+05/02/20 06:20:58 true
+DESKTOP-A06RFJE 05/02/20 06:21:23 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCPgMYPGz-vTn0TyBEM1Qf6w","account_id":"270619142852488","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC0zbjDgGsDy2CGxd72iFF5Q","account_id":"270619142857564","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:32:56 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCJFjpLZN_1RZ2VWYRAJIS3w","account_id":"170619142337","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCwinO3D39vpIMNdHsasqerQ","account_id":"170619142403","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCZkQ__lzVqE5a3T6s1k-V8A","account_id":"270619142904003","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:33:40 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCZLQn_zHGmAQnoVp-73lJ_w","account_id":"170619142112","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCOuX6xVOKbpzLor4q_BCJ2g","account_id":"170619141902","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKfzWIxpc9MpEY3qgY5NYig","account_id":"170619142212","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:33:55 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCwrNym2C1J-Ts_9LM4IHjDQ","account_id":"170619142104","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCebkWTX68OR6s5_KGuAGcug","account_id":"170619141946","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCuhSCXcm0mT7rzaciFpNwfw","account_id":"170619142224","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:34:10 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCeCZju9TjRvLGhFH5tS14yQ","account_id":"170619142336","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCIeQ8oVA1FeGeLK0E9HDz4w","account_id":"270619142912765","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCwircpqEEPLsX6pjtledRuA","account_id":"170619142347","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 05/02/20 06:34:55 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCZFi6S9f01TZRpsSIYDkbbg","account_id":"270619142857902","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCCPhbb2F2STBN_8YOrgV3Ag","account_id":"170619142114","video_sub_view_time":"20-30"},{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCm4xaCQrU4N-ZMu1SQiGK8g","account_id":"270619142839160","video_sub_view_time":"20-30"}]
+05/02/20 06:36:11 true
+DESKTOP-A06RFJE 21/03/20 09:09:24 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCMKoRnwyTDqBGhWS6letItg","account_id":"170619142225","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:09:27 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:09:30 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:09:33 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:09:36 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:09:39 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWnKplghWHyFMcaKNYuCQeg","account_id":"170619142227","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:09:42 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:09:45 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:11:30 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCMKoRnwyTDqBGhWS6letItg","account_id":"170619142225","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:11:33 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:11:36 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:11:39 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:11:42 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:12:50 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:12:53 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:12:56 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:12:59 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:02 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:05 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:08 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:11 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:14 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:17 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:20 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:23 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:26 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:29 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:32 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:35 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:38 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWnKplghWHyFMcaKNYuCQeg","account_id":"170619142227","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:41 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:13:44 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:30 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:33 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:36 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:39 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:42 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:45 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:48 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:51 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:54 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:14:57 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:15:00 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:15:03 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:15:06 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:15:09 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:15:12 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:15:15 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:17:15 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:17:18 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:17:21 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:17:24 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:17:27 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:17:30 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:17:33 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:18:51 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:18:54 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWnKplghWHyFMcaKNYuCQeg","account_id":"170619142227","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:04 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:07 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:10 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:13 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:16 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:19 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:22 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:25 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:28 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:31 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:24:34 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:25:05 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:25:08 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:25:11 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:25:14 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:26:14 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:26:17 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:26:20 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:26:23 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:26:26 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:26:29 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:26:32 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:28:32 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:28:35 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:29:41 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:29:44 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:30:36 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:30:39 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:30:42 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:30:45 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:32:18 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:32:21 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:33:38 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:33:41 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:35:00 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:35:03 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:35:06 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:35:09 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:37:06 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:37:09 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:37:12 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:37:15 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:37:18 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:38:26 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWnKplghWHyFMcaKNYuCQeg","account_id":"170619142227","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:38:29 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:38:32 false
+DESKTOP-A06RFJE 21/03/20 09:39:15 false
+DESKTOP-A06RFJE 21/03/20 09:39:17 false
+DESKTOP-A06RFJE 21/03/20 09:41:39 false
+DESKTOP-A06RFJE 21/03/20 09:41:42 false
+DESKTOP-A06RFJE 21/03/20 09:41:45 false
+DESKTOP-A06RFJE 21/03/20 09:41:48 false
+DESKTOP-A06RFJE 21/03/20 09:42:35 false
+DESKTOP-A06RFJE 21/03/20 09:42:38 false
+DESKTOP-A06RFJE 21/03/20 09:42:41 false
+DESKTOP-A06RFJE 21/03/20 09:44:24 false
+DESKTOP-A06RFJE 21/03/20 09:44:27 false
+DESKTOP-A06RFJE 21/03/20 09:44:30 false
+DESKTOP-A06RFJE 21/03/20 09:45:44 false
+DESKTOP-A06RFJE 21/03/20 09:45:47 false
+DESKTOP-A06RFJE 21/03/20 09:45:50 false
+DESKTOP-A06RFJE 21/03/20 09:45:53 false
+DESKTOP-A06RFJE 21/03/20 09:45:56 false
+DESKTOP-A06RFJE 21/03/20 09:45:59 false
+DESKTOP-A06RFJE 21/03/20 09:52:01 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz0lw5JgF6ljsR9EqjkFYtA","account_id":"170619142138","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:52:04 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:52:07 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWnKplghWHyFMcaKNYuCQeg","account_id":"170619142227","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:53:30 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:53:33 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:54:26 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 09:54:29 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:18:45 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:18:48 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:35:19 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz0lw5JgF6ljsR9EqjkFYtA","account_id":"170619142138","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:35:22 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:35:25 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:38:11 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:38:14 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:38:17 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz0lw5JgF6ljsR9EqjkFYtA","account_id":"170619142138","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:39:14 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCVfQPgU0hMIvEuj2wlOwqbQ","account_id":"170619142229","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:39:17 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:39:20 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz0lw5JgF6ljsR9EqjkFYtA","account_id":"170619142138","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:40:58 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:41:01 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:41:04 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:41:59 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:42:02 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCMKoRnwyTDqBGhWS6letItg","account_id":"170619142225","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:42:05 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:44:15 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:44:53 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWnKplghWHyFMcaKNYuCQeg","account_id":"170619142227","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:46:36 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCVfQPgU0hMIvEuj2wlOwqbQ","account_id":"170619142229","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:57:19 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:58:34 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz0lw5JgF6ljsR9EqjkFYtA","account_id":"170619142138","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 10:59:34 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:04:36 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:05:36 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:06:36 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCm4xaCQrU4N-ZMu1SQiGK8g","account_id":"270619142839160","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:07:49 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:26:21 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:32:33 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:37:09 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCKq4Pj0JBj_jvKvfQRVDS5A","account_id":"270619142845683","video_sub_view_time":"20-30"}]
+21/03/20 11:38:54 true
+DESKTOP-A06RFJE 21/03/20 11:40:47 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz_75ndc_3r05LyrraiTYVw","account_id":"170619142111","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:44:04 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCm4xaCQrU4N-ZMu1SQiGK8g","account_id":"270619142839160","video_sub_view_time":"20-30"}]
+21/03/20 11:45:35 true
+DESKTOP-A06RFJE 21/03/20 11:46:04 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCVfQPgU0hMIvEuj2wlOwqbQ","account_id":"170619142229","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:50:25 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:51:25 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCHPYuWFKu6paSsPtNh8bxbg","account_id":"170619142014","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:52:25 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz0lw5JgF6ljsR9EqjkFYtA","account_id":"170619142138","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:53:35 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:53:45 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCm4xaCQrU4N-ZMu1SQiGK8g","account_id":"270619142839160","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 21/03/20 11:55:55 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCmysM4p78Gcyaq4KNKXGOLw","account_id":"170619142324","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:15:02 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:15:12 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:16:02 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCHPYuWFKu6paSsPtNh8bxbg","account_id":"170619142014","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:16:12 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:16:22 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:16:32 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCk1_x6RnnxvRsbEDmthL7ow","account_id":"170619142251","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:16:42 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCVfQPgU0hMIvEuj2wlOwqbQ","account_id":"170619142229","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:16:52 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:17:02 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCFi76uZCZeeeh9pLLNDUVFQ","account_id":"270619142910392","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:17:12 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCiAqzC-Uays_f3yLI_B0rnw","account_id":"270619142853842","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:17:22 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCz0lw5JgF6ljsR9EqjkFYtA","account_id":"170619142138","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:17:32 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:17:42 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCD45I9OqsShp2bx6TPl7lRw","account_id":"170619142120","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:17:52 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCy0Jmige8-kosRuDHBmIKFA","account_id":"270619142900936","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:18:02 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCMKoRnwyTDqBGhWS6letItg","account_id":"170619142225","video_sub_view_time":"20-30"}]
+22/03/20 12:20:05 true
+DESKTOP-A06RFJE 22/03/20 12:20:12 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCm4xaCQrU4N-ZMu1SQiGK8g","account_id":"270619142839160","video_sub_view_time":"20-30"}]
+22/03/20 12:22:01 true
+DESKTOP-A06RFJE 22/03/20 12:22:02 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:22:12 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:37:25 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UC_x1TVdnIOrZXxO7lVXbzRg","account_id":"270619142855525","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:37:35 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:37:45 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:37:55 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCVfQPgU0hMIvEuj2wlOwqbQ","account_id":"170619142229","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:38:05 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCMKoRnwyTDqBGhWS6letItg","account_id":"170619142225","video_sub_view_time":"20-30"}]
+22/03/20 12:38:05 true
+DESKTOP-A06RFJE 22/03/20 12:38:15 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCXvgBqNFQIxptJ2L483OFyg","account_id":"170619142307","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:38:25 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCm4xaCQrU4N-ZMu1SQiGK8g","account_id":"270619142839160","video_sub_view_time":"20-30"}]
+22/03/20 12:38:25 true
+DESKTOP-A06RFJE 22/03/20 12:38:35 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCRUqdOd1KPUaCrCt9WuyCMg","account_id":"170619142157","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:38:45 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWnKplghWHyFMcaKNYuCQeg","account_id":"170619142227","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 22/03/20 12:38:55 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCfYKjE5YH_9iX7gNFiXup7A","account_id":"170619142001","video_sub_view_time":"20-30"}]
+DESKTOP-A06RFJE 23/03/20 12:17:47 [{"video_sub_id":"lqzYuBnyF6c","account_channel_id":"UCWnKplghWHyFMcaKNYuCQeg","account_id":"170619142227","video_sub_view_time":"20-30"}]
+DESKTOP-765R3CF Chưa có video sub chờ video kế
+DESKTOP-765R3CF Chưa có video sub chờ video kế
+DESKTOP-765R3CF IP không thể kết nối , reset lại ip
+DESKTOP-765R3CF Chưa có video sub chờ video kế
+DESKTOP-765R3CF Chưa có video sub chờ video kế
+DESKTOP-765R3CF Chưa có video sub chờ video kế
+DESKTOP-765R3CF Chưa có video sub chờ video kế
+DESKTOP-765R3CF Chưa có video sub chờ video kế
+DESKTOP-765R3CF 26/03/20 09:30:04 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCjm-gczC3imxY3mUr2Jv5-A","account_id":"270619142839823","video_sub_view_time":"240-300"}]
+DESKTOP-765R3CF 27/03/20 07:59:39 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCTUueauO4VzdBLcEeJSdqAA","account_id":"170619142137","video_sub_view_time":"240-300"}]
+DESKTOP-765R3CF 27/03/20 08:01:27 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCn26UYTzBdr0VNho1AjrzdA","account_id":"170619142027","video_sub_view_time":"240-300"}]
+DESKTOP-765R3CF 27/03/20 11:23:54 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCKctpspvtDhgKtMjq47KeYg","account_id":"170619142315","video_sub_view_time":"240-300"}]
+DESKTOP-765R3CF 27/03/20 11:33:11 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCTSpxDstYpG27EFV0BaGkDg","account_id":"170619142228","video_sub_view_time":"240-300"}]
+DESKTOP-765R3CF 27/03/20 02:26:08 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCfgVJVXXc_eVS_AjCOW6kfw","account_id":"170619141959","video_sub_view_time":"240-300"}]
+DESKTOP-765R3CF 27/03/20 02:29:58 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCm4xaCQrU4N-ZMu1SQiGK8g","account_id":"270619142839160","video_sub_view_time":"240-300"}]
+DESKTOP-765R3CF 27/03/20 02:30:39 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCpaFcmxWZGgGol5Cb4YVQ-g","account_id":"170619142037","video_sub_view_time":"240-300"}]
+DESKTOP-765R3CF 27/03/20 02:31:09 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCpE1QoCVWvTpGgpLUrTSd0Q","account_id":"170619142350","video_sub_view_time":"240-300"}]
+DESKTOP-765R3CF 27/03/20 02:31:14 [{"video_sub_id":"M7XpY_2ttjo","account_channel_id":"UCT1kD0dEjFcDXHzwoU0Fa8Q","account_id":"170619142400","video_sub_view_time":"240-300"}]
