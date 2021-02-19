@@ -71,4 +71,23 @@ public class SubService {
         return false;
     }
 
+    public static Boolean checkProductExpired() {
+        try {
+            Map<String, Object> params = new LinkedHashMap<>();
+            params.put("code", ToolSetting.getInstance().getToolCode());
+            params.put("user_id", ToolSetting.getInstance().getUserId());
+            String result = ServiceAction.getResultFromService("ProductExpiredApi/check", params);
+            JSONObject jo = (JSONObject) new JSONParser().parse(result);
+            if (jo != null) {
+                int dayLeft=Integer.parseInt(jo.get("dayleft").toString());
+                if(dayLeft>0){
+                    ToolSetting.getInstance().setDayLeft(dayLeft);
+                    return true;
+                }
+            }
+        } catch (Exception e) {
+        }
+        return false;
+    }
+
 }

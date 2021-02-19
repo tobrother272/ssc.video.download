@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package api;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.OutputStream;
@@ -13,18 +14,23 @@ import java.net.URL;
 import java.net.URLEncoder;
 import java.util.Map;
 import Setting.ToolSetting;
+import Utils.Constants;
+
 /**
  * @author simplesolution.co
  */
 public class ServiceAction {
+
     private String url;
     private String param;
     private String result;
+
     public ServiceAction(String url, String param, String result) {
         this.url = url;
         this.param = param;
         this.result = result;
     }
+
     public static String getResultFromService(String urlString, Map<String, Object> params) {
         HttpURLConnection conn = null;
         try {
@@ -46,8 +52,9 @@ public class ServiceAction {
             if (params.size() != 0) {
                 conn.setRequestMethod("POST");
                 conn.setRequestProperty("charset", "utf-8");
-                conn.setRequestProperty("Authorization","a61a620d67cc359aa6dcf711ef8c6d45");
+                conn.setRequestProperty("Authorization", "a61a620d67cc359aa6dcf711ef8c6d45");
                 conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; utf-8");
+                conn.addRequestProperty("User-Agent", Constants.USER_AGENT);
                 conn.setRequestProperty("Accept", "application/json");
                 conn.setRequestProperty("Content-Length", String.valueOf(postDataBytes.length));
                 conn.setDoOutput(true);
@@ -58,6 +65,7 @@ public class ServiceAction {
                 conn.setRequestProperty("charset", "utf-8");
                 conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; utf-8");
                 conn.setRequestProperty("Accept", "application/json");
+                conn.addRequestProperty("User-Agent", Constants.USER_AGENT);
                 conn.setRequestProperty("Authorization", "a61a620d67cc359aa6dcf711ef8c6d45");
                 conn.setRequestProperty("Content-Length", String.valueOf(postDataBytes.length));
                 conn.setRequestMethod("GET");
@@ -75,6 +83,7 @@ public class ServiceAction {
         }
         return "";
     }
+
     public static String getResultFromService2(String urlString, Map<String, Object> params) {
         HttpURLConnection conn = null;
         try {
@@ -98,6 +107,7 @@ public class ServiceAction {
                 conn.setRequestProperty("charset", "utf-8");
                 conn.setRequestProperty("Authorization", "a87063dfc6d07cdcccf0780a00eb86d6");
                 conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; utf-8");
+                conn.addRequestProperty("User-Agent", Constants.USER_AGENT);
                 conn.setRequestProperty("Accept", "application/json");
                 conn.setRequestProperty("Content-Length", String.valueOf(postDataBytes.length));
                 conn.setDoOutput(true);
@@ -108,6 +118,7 @@ public class ServiceAction {
                 conn.setRequestProperty("charset", "utf-8");
                 conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; utf-8");
                 conn.setRequestProperty("Accept", "application/json");
+                conn.addRequestProperty("User-Agent", Constants.USER_AGENT);
                 conn.setRequestProperty("Authorization", "a87063dfc6d07cdcccf0780a00eb86d6");
                 conn.setRequestProperty("Content-Length", String.valueOf(postDataBytes.length));
                 conn.setRequestMethod("GET");
@@ -125,6 +136,7 @@ public class ServiceAction {
         }
         return "";
     }
+
     public static String getResultFromAnyAPI(String urlString, Map<String, Object> params) {
         HttpURLConnection conn = null;
         try {
@@ -143,11 +155,12 @@ public class ServiceAction {
 
             byte[] postDataBytes = postData.toString().getBytes("UTF-8");
             conn = (HttpURLConnection) url.openConnection();
-            conn.addRequestProperty("User-Agent", "Mozilla");
+            conn.addRequestProperty("User-Agent", Constants.USER_AGENT);
             conn.setReadTimeout(5000);
             conn.setConnectTimeout(5000);
             conn.setRequestMethod("POST");
             conn.setRequestProperty("charset", "utf-8");
+            conn.addRequestProperty("User-Agent", Constants.USER_AGENT);
             conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; utf-8");
             conn.setRequestProperty("Accept", "application/json");
             conn.setRequestProperty("Content-Length", String.valueOf(postDataBytes.length));
@@ -190,7 +203,7 @@ public class ServiceAction {
             }
             byte[] postDataBytes = postData.toString().getBytes("UTF-8");
             conn = (HttpURLConnection) url.openConnection();
-            conn.addRequestProperty("User-Agent", "Mozilla");
+            conn.addRequestProperty("User-Agent", Constants.USER_AGENT);
             conn.setReadTimeout(5000);
             conn.setConnectTimeout(5000);
             conn.setRequestMethod("GET");
@@ -212,6 +225,5 @@ public class ServiceAction {
         }
         return "";
     }
-    
-    
+
 }
