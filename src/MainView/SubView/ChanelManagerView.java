@@ -9,7 +9,10 @@ import FormComponent.Dialog.SSCInputDialog;
 import FormComponent.View.SSCChildView;
 import FormComponent.SSCButtonChildTab;
 import FormComponent.SSCTextField;
+import FormComponent.View.FormUltils;
+import FormComponent.View.SSCMessage;
 import FormComponent.View.SSCProcessTaskView;
+import Setting.ToolSetting;
 import Utils.MyFileUtils;
 import java.io.File;
 import java.util.ArrayList;
@@ -21,6 +24,9 @@ import javafx.concurrent.WorkerStateEvent;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.Scene;
+import javafx.scene.control.TableRow;
+import javafx.scene.input.MouseButton;
+import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
 import ssc.task.EventFinistTask;
 import ssc.video.YoutubeApiVideo;
@@ -57,6 +63,7 @@ public class ChanelManagerView extends SSCChildView {
     private SSCProcessTaskView youtubeVideos;
     private AnchorPane apYoutubeVideo;
     private ObservableList<YoutubeApiVideo> arrVideos;
+    private ObservableList<YoutubeApiVideo> arrVideoSelects;
     private SSCInputDialog scanDialog;
     private SSCTextField txtYoutubeKeyword;
     private SSCTextField txtVideoSave;
@@ -65,11 +72,21 @@ public class ChanelManagerView extends SSCChildView {
     @Override
     public void initView(Scene scene) {
         arrVideos = FXCollections.observableArrayList();
+        arrVideoSelects = FXCollections.observableArrayList();
         apYoutubeVideo = (AnchorPane) scene.lookup("#apYoutubeVideo");
+
+       
+
         youtubeVideos = new SSCProcessTaskView(apYoutubeVideo, "Danh sách video", arrVideos, Arrays.asList()) {
             @Override
             public void runEventBody() {
-
+                arrVideoSelects.clear();
+                arrVideoSelects.addAll(youtubeVideos.getTv().getSelectionModel().getSelectedItems());
+                if (arrVideoSelects.size() == 0) {
+                    SSCMessage.showWarning(scene, "Chọn danh sách video cần download");
+                    return;
+                }
+                arrVideos.setAll(arrVideoSelects);
                 youtubeVideos.startTask();
             }
 
@@ -111,6 +128,21 @@ public class ChanelManagerView extends SSCChildView {
             }
         };
         YoutubeApiVideo.initTable(youtubeVideos.getTv(), arrVideos);
+         youtubeVideos.getTv().setRowFactory(tv -> {
+            TableRow<YoutubeApiVideo> row = new TableRow<>();
+            row.setOnMouseClicked((MouseEvent event) -> {
+                if (event.getClickCount() == 2) {
+                    YoutubeApiVideo account = (YoutubeApiVideo) row.getItem();
+                    if (account == null) {
+                        return;
+                    }
+                    if (event.getButton() == MouseButton.PRIMARY) {
+                        ToolSetting.openUrl("https://www.youtube.com/watch?v="+account.getId());
+                    }
+                }
+            });
+            return row;
+        });
         scanDialog = new SSCInputDialog(scene, 3, "Cài đặt quét", "Nhập từ khóa|id kênh|id Playlist để quét", "Quét ngay");
         txtYoutubeKeyword = new SSCTextField("Từ khóa", "Nhập từ khóa tìm kiếm , id kênh , id playlist", scanDialog.getForm().getFormElement(), "txtYoutubeKeyword", Arrays.asList("require"));
         txtVideoSave = new SSCTextField("Thư mục lưu", "Click đúp chọn thư mục", scanDialog.getForm().getFormElement(), "txtVideoSave", Arrays.asList("require"));
@@ -121,12 +153,12 @@ public class ChanelManagerView extends SSCChildView {
         scanDialog.getForm().getSubmit().setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                if (txtYoutubeKeyword.isValidate()||txtNumberVideoNeed.isValidate()||txtVideoSave.isValidate()) {
+                if (txtYoutubeKeyword.isValidate() || txtNumberVideoNeed.isValidate() || txtVideoSave.isValidate()) {
                     return;
                 }
                 scanDialog.getForm().saveData();
                 arrVideos.clear();
-                ScanVideoTask svt = new ScanVideoTask(arrVideos, txtYoutubeKeyword.getText().trim(),Integer.parseInt(txtNumberVideoNeed.getText().trim()));
+                ScanVideoTask svt = new ScanVideoTask(arrVideos, txtYoutubeKeyword.getText().trim().replaceAll(" ","+"), Integer.parseInt(txtNumberVideoNeed.getText().trim()));
                 svt.setOnSucceeded(new EventHandler<WorkerStateEvent>() {
                     @Override
                     public void handle(WorkerStateEvent event) {
@@ -137,6 +169,7 @@ public class ChanelManagerView extends SSCChildView {
                 svt.start();
             }
         });
+
     }
 
     @Override

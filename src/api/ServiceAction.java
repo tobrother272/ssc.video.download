@@ -35,8 +35,8 @@ public class ServiceAction {
         HttpURLConnection conn = null;
         try {
             String query = ToolSetting.getInstance().getServiceUrl() + "/" + urlString;
-            //System.out.println("query "+query);
-            ///System.out.println("query "+ToolSetting.getInstance().getUserToken());
+            System.out.println("query " + query);
+            System.out.println("query " + ToolSetting.getInstance().getUserToken());
             URL url = new URL(query);
             StringBuilder postData = new StringBuilder();
             for (Map.Entry<String, Object> param : params.entrySet()) {
@@ -51,8 +51,10 @@ public class ServiceAction {
             conn = (HttpURLConnection) url.openConnection();
             if (params.size() != 0) {
                 conn.setRequestMethod("POST");
+                conn.setReadTimeout(30000);
+                conn.setConnectTimeout(30000);
                 conn.setRequestProperty("charset", "utf-8");
-                conn.setRequestProperty("Authorization", "a61a620d67cc359aa6dcf711ef8c6d45");
+                conn.setRequestProperty("Authorization", ToolSetting.getInstance().getUserToken());
                 conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; utf-8");
                 conn.addRequestProperty("User-Agent", Constants.USER_AGENT);
                 conn.setRequestProperty("Accept", "application/json");
@@ -63,10 +65,12 @@ public class ServiceAction {
                 os.close();
             } else {
                 conn.setRequestProperty("charset", "utf-8");
+                conn.setReadTimeout(30000);
+                conn.setConnectTimeout(30000);
                 conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; utf-8");
                 conn.setRequestProperty("Accept", "application/json");
                 conn.addRequestProperty("User-Agent", Constants.USER_AGENT);
-                conn.setRequestProperty("Authorization", "a61a620d67cc359aa6dcf711ef8c6d45");
+                conn.setRequestProperty("Authorization", ToolSetting.getInstance().getUserToken());
                 conn.setRequestProperty("Content-Length", String.valueOf(postDataBytes.length));
                 conn.setRequestMethod("GET");
             }

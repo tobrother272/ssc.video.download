@@ -9,7 +9,6 @@ import FormComponent.View.SSCLoginForm;
 import FormComponent.View.SSCMessage;
 import FormComponent.SSCPasswdField;
 import FormComponent.SSCTextField;
-import MainView.SubView.ChanelManagerView;
 import Setting.ToolSetting;
 import Setup.LoginTask;
 import java.io.File;

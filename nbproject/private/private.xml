@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/PC/Documents/projects/ssc.download/src/ssc/reup/api/Controller/FXMLDocumentController.java</file>
-            <file>file:/C:/Users/PC/Documents/projects/ssc.download/src/MainView/SubView/ChanelManagerView.java</file>
+            <file>file:/C:/Users/PC/Documents/projects/ssc.video.download/src/api/ServiceAction.java</file>
+            <file>file:/C:/Users/PC/Documents/projects/ssc.video.download/src/MainView/SubView/Login/LoginView.java</file>
+            <file>file:/C:/Users/PC/Documents/projects/ssc.video.download/src/FormComponent/View/SSCProcessView.java</file>
+            <file>file:/C:/Users/PC/Documents/projects/ssc.video.download/src/ssc/video/YoutubeApiVideo.java</file>
+            <file>file:/C:/Users/PC/Documents/projects/ssc.video.download/src/Setup/LoginTask.java</file>
+            <file>file:/C:/Users/PC/Documents/projects/ssc.video.download/src/MainView/SubView/ChanelManagerView.java</file>
+            <file>file:/C:/Users/PC/Documents/projects/ssc.video.download/src/ssc/reup/api/SscReupApi.java</file>
         </group>
     </open-files>
 </project-private>

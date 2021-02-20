@@ -30,33 +30,42 @@ import ssc.reup.api.task.CountRunTimeTask;
  * @author PC
  */
 public abstract class SSCProcessView {
+
     public abstract void runEventBody();
-    public  EventHandler<ActionEvent> runEvent(){
+
+    public EventHandler<ActionEvent> runEvent() {
         return new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
                 runEventBody();
             }
         };
-    };
+    }
+
+    ;
     public abstract void timerTaskBody();
-    public  TimerTask timerTask(){
+
+    public TimerTask timerTask() {
         return new TimerTask() {
             @Override
             public void run() {
                 timerTaskBody();
             }
-        };        
-    };
+        };
+    }
+
+    ;
     public abstract boolean stopRunningTaskBody();
-    public StopRunningTask stopRunningTask(){
+
+    public StopRunningTask stopRunningTask() {
         return new StopRunningTask() {
             @Override
             public boolean mainThread() {
                 return stopRunningTaskBody();
             }
-        };     
-    };
+        };
+    }
+    ;
     private GridPane apStatus;
 
     public GridPane getApStatus() {
@@ -117,10 +126,16 @@ public abstract class SSCProcessView {
     }
 
     public void goToRunReadyMode() {
-        btRuButton.setText("  Thực Hiện ");
-        GlyphsDude.setIcon(btRuButton, FontAwesomeIcons.valueOf("FAST_FORWARD"), "1.5em", ContentDisplay.LEFT);
-        btRuButton.getStyleClass().setAll("btnRunTaskProcess");
-        btRuButton.setOnAction(runEvent());
+        Platform.runLater(new Runnable() {
+            @Override
+            public void run() {
+                btRuButton.setText("  Thực Hiện ");
+                GlyphsDude.setIcon(btRuButton, FontAwesomeIcons.valueOf("FAST_FORWARD"), "1.5em", ContentDisplay.LEFT);
+                btRuButton.getStyleClass().setAll("btnRunTaskProcess");
+                btRuButton.setOnAction(runEvent());
+            }
+        });
+
     }
 
     public void goToStopReadyMode() {
@@ -138,6 +153,7 @@ public abstract class SSCProcessView {
             }
         });
     }
+
     public void initView(AnchorPane rootDialog, double x, double y, double w, double h) {
         apStatus = new GridPane();
         apStatus.setHgap(5);
@@ -265,7 +281,7 @@ public abstract class SSCProcessView {
         if (timer != null) {
             timer.cancel();
         }
-        
+        goToRunReadyMode();
 
     }
 

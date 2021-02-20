@@ -680,7 +680,7 @@ public class ToolSetting {
         this.keyPhoneApi = pre.get("keyPhoneApi", "");
         this.tmKey = pre.get("tmKey", "");
         this.userId = pre.get("userId", "");
-        this.toolCode = "3A89Q";
+        this.toolCode = "3ADSO";
         this.arrPrices = new ArrayList<>();
         this.arrPrices.addAll(StringUtil.getListStringBySplit(pre.get("prices", ""), ","));
         this.description = pre.get("description", "");

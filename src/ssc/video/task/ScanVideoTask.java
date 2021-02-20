@@ -28,7 +28,7 @@ public class ScanVideoTask extends TaskModel {
     @Override
     public boolean main() {
         try {
-            List<YoutubeApiVideo> data = YoutubeApiVideo.getArrayVideoFromSearchQuery(keywork, numberVideo);
+            List<YoutubeApiVideo> data = YoutubeApiVideo.getArrayVideoFromSearchQuery(keywork.replaceAll(" ", "+"), numberVideo);
             for (YoutubeApiVideo youtubeApiVideo : data) {
                 youtubeApiVideo.setStt(arrVideos.size()+1);
                 arrVideos.add(youtubeApiVideo);

@@ -6,13 +6,17 @@
 package ssc.video;
 
 import FormComponent.SSCTableColumStatic;
+import Setting.ToolSetting;
 import Utils.DownloadManagerUtils;
 import api.ServiceAction;
+import static api.SubService.getMd5;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Random;
 import javafx.beans.property.ReadOnlyObjectWrapper;
 import javafx.collections.ObservableList;
@@ -20,6 +24,7 @@ import javafx.concurrent.WorkerStateEvent;
 import javafx.event.EventDispatchChain;
 import javafx.event.EventHandler;
 import javafx.scene.control.Label;
+import javafx.scene.control.SelectionMode;
 import javafx.scene.control.TableCell;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
@@ -248,56 +253,54 @@ public class YoutubeApiVideo extends TaskModel {
                 imageCol,
                 infoCol);
         tv.setItems(arrVideos);
+        tv.getSelectionModel().setSelectionMode(SelectionMode.MULTIPLE);
+        
+        
     }
-    public static List<String> arrAPI = new ArrayList<>(Arrays.asList(
-            "https://ssc-youtube-download.herokuapp.com/api/info?url=https://www.youtube.com/watch?v=",
-            "https://ssc-youtube-download-v2.herokuapp.com/api/info?url=https://www.youtube.com/watch?v=",
-            "https://ssc-youtube-download-v3.herokuapp.com/api/info?url=https://www.youtube.com/watch?v=",
-            "https://ssc-youtube-download-v4.herokuapp.com/api/info?url=https://www.youtube.com/watch?v="
-    ));
-    public static String getLinkDownloadApi(String videoId, int fullHD,String server) {
+    public static String getLinkDownloadApi(String videoId, int fullHD) {
         try {
-            String query = server + videoId + "&flatten=False";
-            String jsonString = Jsoup.connect(query).ignoreContentType(true).timeout(1000 * 30).execute().body();
-            JSONObject jo = (JSONObject) new JSONParser().parse(jsonString);
-            System.out.println("jsonString getLinkDownloadApi " + jsonString);
-            String link1080 = "";
-            String link720 = "";
-            String link480 = "";
-            String link360 = "";
+            try {
+            Map<String, Object> params = new LinkedHashMap<>();
+            String result = ServiceAction.getResultFromService("TiktokApi/ytbvideo/" + videoId+"/"+ToolSetting.getInstance().getToolCode(), params);
+            
+                System.out.println(""+result);
+           
+            
+            JSONObject jo = (JSONObject) new JSONParser().parse(result);
+            
+            
+            String videoLink720="";
+            String videoLink480="";
+            String videoLink360="";
             if (jo != null) {
-                JSONObject info = (JSONObject) jo.get("info");
-                JSONArray streams = (JSONArray) info.get("formats");
-                Iterator i = streams.iterator();
-                while (i.hasNext()) {
-                    JSONObject linkObj = (JSONObject) i.next();
-
-                    if (linkObj.get("ext").toString().contains("mp4") && linkObj.get("height").toString().contains("1080") && !linkObj.get("acodec").toString().contains("none")) {
-                        link1080 = linkObj.get("url").toString();
-                    }
-                    if (linkObj.get("ext").toString().contains("mp4") && linkObj.get("height").toString().contains("720") && !linkObj.get("acodec").toString().contains("none")) {
-                        link720 = linkObj.get("url").toString();
-                    }
-                    if (linkObj.get("ext").toString().contains("mp4") && linkObj.get("height").toString().contains("480") && !linkObj.get("acodec").toString().contains("none")) {
-                        link480 = linkObj.get("url").toString();
-                    }
-                    if (linkObj.get("ext").toString().contains("mp4") && !linkObj.get("acodec").toString().contains("none")) {
-                        link360 = linkObj.get("url").toString();
-                    }
+                if (jo.get("status").toString().contains("success")) {
+                        JSONArray items = (JSONArray) jo.get("data");
+                        Iterator i = items.iterator();
+                        while (i.hasNext()) {
+                            JSONObject video = (JSONObject) i.next();
+                            if(video.get("Quality").equals("720")){
+                                videoLink720=video.get("link").toString();
+                            }
+                            if(video.get("Quality").equals("480")){
+                                videoLink480=video.get("link").toString();
+                            }
+                            if(video.get("Quality").equals("360")){
+                                videoLink360=video.get("link").toString();
+                            }
+                        } 
+                    
                 }
-                if (fullHD==1) {
-                    if (link1080.length() != 0) {
-                        return link1080;
-                    }
-                }
-                if (link720.length() != 0) {
-                    return link720;
-                }
-                if (link480.length() != 0) {
-                    return link480;
-                }
-                return link360;
             }
+            if(videoLink720.length()!=0){
+                return videoLink720;
+            }
+            if(videoLink480.length()!=0){
+                return videoLink480;
+            }
+            return videoLink360;
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -307,16 +310,8 @@ public class YoutubeApiVideo extends TaskModel {
     @Override
     public boolean main() {
         try {
-            String downloadUri = "";
-            List<String> arrAPIGet = new ArrayList<>();
-            arrAPIGet.addAll(arrAPI);
-            while (downloadUri.length() == 0 && arrAPIGet.size() != 0) {
-                int numberGet = new Random().nextInt(arrAPIGet.size());
-                String server = arrAPIGet.get(numberGet);
-                arrAPIGet.remove(server);
-                updateMessage("Đang lấy link down server " + (numberGet + 1));
-                downloadUri = getLinkDownloadApi(getId(), 0, server);
-            }
+            updateMessage("Đang lấy link download");
+            String downloadUri = getLinkDownloadApi(getId(), 0);
             if (downloadUri.length() == 0) {
                 updateMessage("Không lấy dc link download");
                 return false;
